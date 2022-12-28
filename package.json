@@ -12,7 +12,7 @@
   },
   "scripts": {
     "build:tailwind": "tailwindcss -i ./tailwind-input.css -o ./public/assets/tailwind.css",
-    "build:ember": "tailwindcss -i ./tailwind-input.css -o ./public/assets/tailwind.css",
+    "build:ember": "ember build -e production",
     "build": "npm run build:tailwind && npm run build:ember",
     "lint": "concurrently \"npm:lint:*(!fix)\" --names \"lint:\"",
     "lint:fix": "concurrently \"npm:lint:*:fix\" --names \"fix:\"",
