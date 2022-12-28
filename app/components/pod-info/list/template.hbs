@@ -1,15 +1,15 @@
 <Utils::OpenState @isOpen={{true}} as |toggle open|>
   <Ui::InfoBox class="m-2">
     <h3 class="border-b border-b-solid border-b-gray-400 text-lg leading-relaxed flex justify-between">
-      <span>Components</span>
+      <span>{{@count}} {{@label}}</span>
 
       <button {{on "click" toggle}} class="text-base text-gray-400" type="button">{{if open "Hide" "Show"}}</button>
     </h3>
 
     {{#if open}}
       <ul class="mt-2 list-disc pl-4">
-        {{#each @componentsUsed as |componentName|}}
-          <li>{{componentName}}</li>
+        {{#each @items as |item|}}
+          <li>{{item}}</li>
         {{/each}}
       </ul>
     {{/if}}

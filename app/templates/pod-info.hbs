@@ -3,6 +3,7 @@
   h-screen overflow-auto">
   <h3 class="border-b border-b-solid border-b-gray-400 text-xl text-right leading-loose">{{this.model.podInfo.path}}</h3>
 
-  <PodInfo::Deprecations @deprecationsFound={{this.model.podInfo.deprecationsFound}} @deprecationCount={{this.model.podInfo.deprecationCount}} />
-  <PodInfo::Components @componentsUsed={{this.model.podInfo.componentsUsed}} @componentAnalyserResults={{this.model.podInfo.componentAnalyserResults}} />
+  <PodInfo::List @label="Deprecations" @items={{this.model.podInfo.deprecationsFound}} @count={{this.model.podInfo.deprecationsCount}} />
+  <PodInfo::List @label="Lint Errors" @items={{this.model.podInfo.lintErrorsFound}} @count={{this.model.podInfo.lintErrorsCount}} />
+  <PodInfo::List @label="Components Used" @items={{this.model.podInfo.componentsUsed}} />
 </div>
