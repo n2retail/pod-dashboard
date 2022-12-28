@@ -1,10 +1,12 @@
 'use strict';
 
+const rootURL = process.env.CI ? '/pod-dashboard/' : rootURL;
+
 module.exports = function (environment) {
   const ENV = {
     modulePrefix: 'pod-dashboard',
     environment,
-    rootURL: '/',
+    rootURL: rootURL,
     locationType: 'history',
     EmberENV: {
       EXTEND_PROTOTYPES: false,
@@ -19,7 +21,7 @@ module.exports = function (environment) {
       // when it is created
     },
 
-    dataRoot: '/',
+    dataRoot: rootURL,
   };
 
   if (environment === 'development') {
