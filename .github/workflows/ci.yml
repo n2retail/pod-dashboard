@@ -59,7 +59,7 @@ jobs:
           cache: npm
       - name: Install Dependencies
         run: npm ci
-      - name: Run Tests
+      - name: Build Ember
         run: npm run build
       - name: Deploy to GH Pages
         uses: peaceiris/actions-gh-pages@v3
