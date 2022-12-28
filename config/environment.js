@@ -1,6 +1,6 @@
 'use strict';
 
-const rootURL = process.env.CI ? '/pod-dashboard/' : rootURL;
+const rootURL = process.env.CI ? '/pod-dashboard/' : '/';
 
 module.exports = function (environment) {
   const ENV = {
