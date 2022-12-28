@@ -13836,9 +13836,10 @@
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
                     "deprecationsFound": [
-                      "ember/require-computed-property-dependencies"
+                      "ember/require-computed-property-dependencies",
+                      "ember/no-implicit-injections"
                     ],
-                    "deprecationsCount": 1,
+                    "deprecationsCount": 2,
                     "lintErrorsFound": [
                       "prettier/prettier",
                       "ember/no-computed-properties-in-native-classes",
@@ -13959,9 +13960,10 @@
                 "fileCount": 2,
                 "deprecationsFound": [
                   "ember/require-computed-property-dependencies",
+                  "ember/no-implicit-injections",
                   "no-action"
                 ],
-                "deprecationsCount": 2,
+                "deprecationsCount": 3,
                 "lintErrorsFound": [
                   "prettier/prettier",
                   "ember/no-computed-properties-in-native-classes",
@@ -13978,9 +13980,10 @@
             "fileCount": 2,
             "deprecationsFound": [
               "ember/require-computed-property-dependencies",
+              "ember/no-implicit-injections",
               "no-action"
             ],
-            "deprecationsCount": 2,
+            "deprecationsCount": 3,
             "lintErrorsFound": [
               "prettier/prettier",
               "ember/no-computed-properties-in-native-classes",
@@ -14015,9 +14018,10 @@
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
                 "deprecationsFound": [
-                  "ember/require-computed-property-dependencies"
+                  "ember/require-computed-property-dependencies",
+                  "ember/no-deprecated-router-transition-methods"
                 ],
-                "deprecationsCount": 1,
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/require-computed-property-dependencies",
@@ -14353,11 +14357,12 @@
             "fileCount": 3,
             "deprecationsFound": [
               "ember/require-computed-property-dependencies",
+              "ember/no-deprecated-router-transition-methods",
               "ember/no-controller-access-in-routes",
               "no-action",
               "no-unknown-arguments-for-builtin-components"
             ],
-            "deprecationsCount": 4,
+            "deprecationsCount": 5,
             "lintErrorsFound": [
               "ember/no-computed-properties-in-native-classes",
               "ember/require-computed-property-dependencies",
@@ -14390,8 +14395,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/classic-decorator-no-classic-methods",
                   "ember/no-deprecated-router-transition-methods"
@@ -14507,10 +14514,11 @@
             ],
             "fileCount": 2,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
               "no-unknown-arguments-for-builtin-components",
               "no-link-to-tagname"
             ],
-            "deprecationsCount": 2,
+            "deprecationsCount": 3,
             "lintErrorsFound": [
               "ember/classic-decorator-no-classic-methods",
               "ember/no-deprecated-router-transition-methods",
@@ -14541,8 +14549,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-deprecated-router-transition-methods"
                 ],
@@ -14758,11 +14768,12 @@
             ],
             "fileCount": 3,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
               "ember/no-controller-access-in-routes",
               "no-action",
               "no-unknown-arguments-for-builtin-components"
             ],
-            "deprecationsCount": 3,
+            "deprecationsCount": 4,
             "lintErrorsFound": [
               "ember/no-deprecated-router-transition-methods",
               "ember/classic-decorator-no-classic-methods",
@@ -14793,8 +14804,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/classic-decorator-no-classic-methods",
                   "ember/no-deprecated-router-transition-methods"
@@ -14910,10 +14923,11 @@
             ],
             "fileCount": 2,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
               "no-unknown-arguments-for-builtin-components",
               "no-link-to-tagname"
             ],
-            "deprecationsCount": 2,
+            "deprecationsCount": 3,
             "lintErrorsFound": [
               "ember/classic-decorator-no-classic-methods",
               "ember/no-deprecated-router-transition-methods",
@@ -14958,8 +14972,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-implicit-injections"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-implicit-injections"
                     ],
@@ -15087,8 +15103,10 @@
                   }
                 ],
                 "fileCount": 2,
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-implicit-injections"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-implicit-injections"
                 ],
@@ -15115,8 +15133,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-deprecated-router-transition-methods"
                     ],
@@ -15129,8 +15149,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-implicit-injections"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-implicit-injections"
                     ],
@@ -15313,10 +15335,12 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
+                  "ember/no-implicit-injections",
                   "no-unknown-arguments-for-builtin-components",
                   "no-link-to-tagname"
                 ],
-                "deprecationsCount": 2,
+                "deprecationsCount": 4,
                 "lintErrorsFound": [
                   "ember/no-deprecated-router-transition-methods",
                   "ember/no-implicit-injections",
@@ -15360,8 +15384,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-implicit-injections"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-implicit-injections"
                     ],
@@ -15507,8 +15533,10 @@
                   }
                 ],
                 "fileCount": 3,
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-implicit-injections"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/classic-decorator-no-classic-methods",
                   "ember/no-implicit-injections"
@@ -15548,8 +15576,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-implicit-injections"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-implicit-injections"
                     ],
@@ -15684,9 +15714,10 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-implicit-injections",
                   "no-action"
                 ],
-                "deprecationsCount": 1,
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "ember/no-implicit-injections",
                   "no-action"
@@ -15713,8 +15744,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-implicit-injections"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-implicit-injections"
                     ],
@@ -15844,8 +15877,10 @@
                   }
                 ],
                 "fileCount": 2,
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-implicit-injections"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-implicit-injections"
                 ],
@@ -15885,8 +15920,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-implicit-injections"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-implicit-injections"
                     ],
@@ -16032,9 +16069,10 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-implicit-injections",
                   "no-action"
                 ],
-                "deprecationsCount": 1,
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "ember/classic-decorator-no-classic-methods",
                   "ember/no-implicit-injections",
@@ -16048,11 +16086,13 @@
             ],
             "fileCount": 16,
             "deprecationsFound": [
+              "ember/no-implicit-injections",
+              "ember/no-deprecated-router-transition-methods",
               "no-unknown-arguments-for-builtin-components",
               "no-link-to-tagname",
               "no-action"
             ],
-            "deprecationsCount": 4,
+            "deprecationsCount": 11,
             "lintErrorsFound": [
               "ember/no-implicit-injections",
               "ember/no-deprecated-router-transition-methods",
@@ -16083,8 +16123,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-deprecated-router-transition-methods"
                 ],
@@ -16300,11 +16342,12 @@
             ],
             "fileCount": 3,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
               "ember/no-controller-access-in-routes",
               "no-action",
               "no-unknown-arguments-for-builtin-components"
             ],
-            "deprecationsCount": 3,
+            "deprecationsCount": 4,
             "lintErrorsFound": [
               "ember/no-deprecated-router-transition-methods",
               "ember/classic-decorator-no-classic-methods",
@@ -16361,8 +16404,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/classic-decorator-no-classic-methods",
                       "ember/no-deprecated-router-transition-methods"
@@ -16478,10 +16523,11 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
                   "no-unknown-arguments-for-builtin-components",
                   "no-link-to-tagname"
                 ],
-                "deprecationsCount": 2,
+                "deprecationsCount": 3,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/classic-decorator-no-classic-methods",
@@ -16698,11 +16744,12 @@
             ],
             "fileCount": 7,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
               "no-unknown-arguments-for-builtin-components",
               "no-link-to-tagname",
               "no-action"
             ],
-            "deprecationsCount": 3,
+            "deprecationsCount": 4,
             "lintErrorsFound": [
               "ember/no-computed-properties-in-native-classes",
               "ember/classic-decorator-no-classic-methods",
@@ -17125,8 +17172,10 @@
                             "componentAnalyserResults": [],
                             "componentsDeprecationsCount": 0,
                             "componentsDeprecationsFound": [],
-                            "deprecationsFound": [],
-                            "deprecationsCount": 0,
+                            "deprecationsFound": [
+                              "ember/no-implicit-injections"
+                            ],
+                            "deprecationsCount": 1,
                             "lintErrorsFound": [
                               "ember/no-implicit-injections"
                             ],
@@ -17228,8 +17277,10 @@
                           }
                         ],
                         "fileCount": 3,
-                        "deprecationsFound": [],
-                        "deprecationsCount": 0,
+                        "deprecationsFound": [
+                          "ember/no-implicit-injections"
+                        ],
+                        "deprecationsCount": 1,
                         "lintErrorsFound": [
                           "prettier/prettier",
                           "ember/no-implicit-injections"
@@ -17267,9 +17318,10 @@
                     "fileCount": 7,
                     "deprecationsFound": [
                       "no-unknown-arguments-for-builtin-components",
-                      "no-link-to-tagname"
+                      "no-link-to-tagname",
+                      "ember/no-implicit-injections"
                     ],
-                    "deprecationsCount": 2,
+                    "deprecationsCount": 3,
                     "lintErrorsFound": [
                       "no-unknown-arguments-for-builtin-components",
                       "no-link-to-tagname",
@@ -17312,8 +17364,10 @@
                         "componentAnalyserResults": [],
                         "componentsDeprecationsCount": 0,
                         "componentsDeprecationsFound": [],
-                        "deprecationsFound": [],
-                        "deprecationsCount": 0,
+                        "deprecationsFound": [
+                          "ember/no-implicit-injections"
+                        ],
+                        "deprecationsCount": 1,
                         "lintErrorsFound": [
                           "ember/no-implicit-injections"
                         ],
@@ -17459,9 +17513,10 @@
                     ],
                     "fileCount": 3,
                     "deprecationsFound": [
+                      "ember/no-implicit-injections",
                       "no-action"
                     ],
-                    "deprecationsCount": 1,
+                    "deprecationsCount": 2,
                     "lintErrorsFound": [
                       "prettier/prettier",
                       "ember/no-implicit-injections",
@@ -17489,9 +17544,10 @@
                 "deprecationsFound": [
                   "no-unknown-arguments-for-builtin-components",
                   "no-link-to-tagname",
+                  "ember/no-implicit-injections",
                   "no-action"
                 ],
-                "deprecationsCount": 3,
+                "deprecationsCount": 5,
                 "lintErrorsFound": [
                   "no-unknown-arguments-for-builtin-components",
                   "no-link-to-tagname",
@@ -18311,8 +18367,10 @@
                             "componentAnalyserResults": [],
                             "componentsDeprecationsCount": 0,
                             "componentsDeprecationsFound": [],
-                            "deprecationsFound": [],
-                            "deprecationsCount": 0,
+                            "deprecationsFound": [
+                              "ember/no-implicit-injections"
+                            ],
+                            "deprecationsCount": 1,
                             "lintErrorsFound": [
                               "ember/no-implicit-injections"
                             ],
@@ -18388,10 +18446,11 @@
                         ],
                         "fileCount": 2,
                         "deprecationsFound": [
+                          "ember/no-implicit-injections",
                           "no-unknown-arguments-for-builtin-components",
                           "no-link-to-tagname"
                         ],
-                        "deprecationsCount": 2,
+                        "deprecationsCount": 3,
                         "lintErrorsFound": [
                           "ember/no-implicit-injections",
                           "no-unknown-arguments-for-builtin-components",
@@ -18433,8 +18492,10 @@
                             "componentAnalyserResults": [],
                             "componentsDeprecationsCount": 0,
                             "componentsDeprecationsFound": [],
-                            "deprecationsFound": [],
-                            "deprecationsCount": 0,
+                            "deprecationsFound": [
+                              "ember/no-implicit-injections"
+                            ],
+                            "deprecationsCount": 1,
                             "lintErrorsFound": [
                               "ember/no-implicit-injections"
                             ],
@@ -18580,9 +18641,10 @@
                         ],
                         "fileCount": 3,
                         "deprecationsFound": [
+                          "ember/no-implicit-injections",
                           "no-action"
                         ],
-                        "deprecationsCount": 1,
+                        "deprecationsCount": 2,
                         "lintErrorsFound": [
                           "ember/classic-decorator-no-classic-methods",
                           "ember/no-implicit-injections",
@@ -18596,11 +18658,12 @@
                     ],
                     "fileCount": 5,
                     "deprecationsFound": [
+                      "ember/no-implicit-injections",
                       "no-unknown-arguments-for-builtin-components",
                       "no-link-to-tagname",
                       "no-action"
                     ],
-                    "deprecationsCount": 3,
+                    "deprecationsCount": 5,
                     "lintErrorsFound": [
                       "ember/no-implicit-injections",
                       "no-unknown-arguments-for-builtin-components",
@@ -18625,11 +18688,12 @@
                 ],
                 "fileCount": 6,
                 "deprecationsFound": [
+                  "ember/no-implicit-injections",
                   "no-unknown-arguments-for-builtin-components",
                   "no-link-to-tagname",
                   "no-action"
                 ],
-                "deprecationsCount": 3,
+                "deprecationsCount": 5,
                 "lintErrorsFound": [
                   "ember/no-implicit-injections",
                   "no-unknown-arguments-for-builtin-components",
@@ -18645,11 +18709,12 @@
             "deprecationsFound": [
               "no-unknown-arguments-for-builtin-components",
               "no-link-to-tagname",
+              "ember/no-implicit-injections",
               "no-action",
               "ember/no-controller-access-in-routes",
               "no-obscure-array-access"
             ],
-            "deprecationsCount": 15,
+            "deprecationsCount": 19,
             "lintErrorsFound": [
               "no-unknown-arguments-for-builtin-components",
               "no-link-to-tagname",
@@ -18684,8 +18749,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-implicit-injections"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "prettier/prettier",
                   "ember/no-computed-properties-in-native-classes",
@@ -18701,8 +18768,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-implicit-injections"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-implicit-injections"
                 ],
@@ -18917,9 +18986,10 @@
             ],
             "fileCount": 3,
             "deprecationsFound": [
+              "ember/no-implicit-injections",
               "no-action"
             ],
-            "deprecationsCount": 1,
+            "deprecationsCount": 3,
             "lintErrorsFound": [
               "prettier/prettier",
               "ember/no-computed-properties-in-native-classes",
@@ -18976,8 +19046,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-deprecated-router-transition-methods"
                     ],
@@ -19197,10 +19269,11 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
                   "ember/no-controller-access-in-routes",
                   "no-action"
                 ],
-                "deprecationsCount": 2,
+                "deprecationsCount": 3,
                 "lintErrorsFound": [
                   "ember/no-deprecated-router-transition-methods",
                   "ember/no-controller-access-in-routes",
@@ -19227,8 +19300,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-computed-properties-in-native-classes",
                       "ember/no-deprecated-router-transition-methods"
@@ -19308,9 +19383,10 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
                   "no-action"
                 ],
-                "deprecationsCount": 1,
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/no-deprecated-router-transition-methods",
@@ -19340,8 +19416,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-deprecated-router-transition-methods"
                     ],
@@ -19511,11 +19589,12 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
                   "ember/no-controller-access-in-routes",
                   "no-action",
                   "no-unknown-arguments-for-builtin-components"
                 ],
-                "deprecationsCount": 3,
+                "deprecationsCount": 4,
                 "lintErrorsFound": [
                   "ember/no-deprecated-router-transition-methods",
                   "ember/classic-decorator-no-classic-methods",
@@ -19550,9 +19629,10 @@
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
                     "deprecationsFound": [
-                      "ember/require-computed-property-dependencies"
+                      "ember/require-computed-property-dependencies",
+                      "ember/no-deprecated-router-transition-methods"
                     ],
-                    "deprecationsCount": 1,
+                    "deprecationsCount": 2,
                     "lintErrorsFound": [
                       "ember/no-computed-properties-in-native-classes",
                       "ember/require-computed-property-dependencies",
@@ -19778,11 +19858,12 @@
                 "fileCount": 3,
                 "deprecationsFound": [
                   "ember/require-computed-property-dependencies",
+                  "ember/no-deprecated-router-transition-methods",
                   "ember/no-controller-access-in-routes",
                   "no-action",
                   "no-unknown-arguments-for-builtin-components"
                 ],
-                "deprecationsCount": 4,
+                "deprecationsCount": 5,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/require-computed-property-dependencies",
@@ -19817,8 +19898,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-computed-properties-in-native-classes",
                       "ember/no-deprecated-router-transition-methods"
@@ -19832,8 +19915,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/classic-decorator-no-classic-methods",
                       "ember/no-deprecated-router-transition-methods"
@@ -19942,11 +20027,12 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
                   "no-action",
                   "no-unknown-arguments-for-builtin-components",
                   "no-link-to-tagname"
                 ],
-                "deprecationsCount": 3,
+                "deprecationsCount": 5,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/no-deprecated-router-transition-methods",
@@ -19977,8 +20063,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-computed-properties-in-native-classes",
                       "ember/no-deprecated-router-transition-methods"
@@ -19992,8 +20080,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/classic-decorator-no-classic-methods",
                       "ember/no-deprecated-router-transition-methods"
@@ -20102,11 +20192,12 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
                   "no-action",
                   "no-unknown-arguments-for-builtin-components",
                   "no-link-to-tagname"
                 ],
-                "deprecationsCount": 3,
+                "deprecationsCount": 5,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/no-deprecated-router-transition-methods",
@@ -20373,8 +20464,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-computed-properties-in-native-classes",
                       "ember/classic-decorator-no-classic-methods",
@@ -20618,11 +20711,12 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
                   "ember/no-controller-access-in-routes",
                   "no-action",
                   "no-unknown-arguments-for-builtin-components"
                 ],
-                "deprecationsCount": 3,
+                "deprecationsCount": 4,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/classic-decorator-no-classic-methods",
@@ -20655,8 +20749,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/classic-decorator-no-classic-methods",
                       "ember/no-deprecated-router-transition-methods"
@@ -20772,10 +20868,11 @@
                 ],
                 "fileCount": 2,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
                   "no-unknown-arguments-for-builtin-components",
                   "no-link-to-tagname"
                 ],
-                "deprecationsCount": 2,
+                "deprecationsCount": 3,
                 "lintErrorsFound": [
                   "ember/classic-decorator-no-classic-methods",
                   "ember/no-deprecated-router-transition-methods",
@@ -20807,9 +20904,10 @@
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
                     "deprecationsFound": [
-                      "ember/require-computed-property-dependencies"
+                      "ember/require-computed-property-dependencies",
+                      "ember/no-deprecated-router-transition-methods"
                     ],
-                    "deprecationsCount": 1,
+                    "deprecationsCount": 2,
                     "lintErrorsFound": [
                       "ember/no-computed-properties-in-native-classes",
                       "ember/require-computed-property-dependencies",
@@ -21035,11 +21133,12 @@
                 "fileCount": 3,
                 "deprecationsFound": [
                   "ember/require-computed-property-dependencies",
+                  "ember/no-deprecated-router-transition-methods",
                   "ember/no-controller-access-in-routes",
                   "no-action",
                   "no-unknown-arguments-for-builtin-components"
                 ],
-                "deprecationsCount": 4,
+                "deprecationsCount": 5,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/require-computed-property-dependencies",
@@ -21074,8 +21173,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-computed-properties-in-native-classes",
                       "ember/no-deprecated-router-transition-methods"
@@ -21089,8 +21190,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/classic-decorator-no-classic-methods",
                       "ember/no-deprecated-router-transition-methods"
@@ -21199,11 +21302,12 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
                   "no-action",
                   "no-unknown-arguments-for-builtin-components",
                   "no-link-to-tagname"
                 ],
-                "deprecationsCount": 3,
+                "deprecationsCount": 5,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/no-deprecated-router-transition-methods",
@@ -21239,9 +21343,10 @@
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
                     "deprecationsFound": [
-                      "ember/require-computed-property-dependencies"
+                      "ember/require-computed-property-dependencies",
+                      "ember/no-deprecated-router-transition-methods"
                     ],
-                    "deprecationsCount": 1,
+                    "deprecationsCount": 2,
                     "lintErrorsFound": [
                       "ember/no-computed-properties-in-native-classes",
                       "ember/require-computed-property-dependencies",
@@ -21259,9 +21364,10 @@
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
                     "deprecationsFound": [
+                      "ember/no-implicit-injections",
                       "ember/no-controller-access-in-routes"
                     ],
-                    "deprecationsCount": 1,
+                    "deprecationsCount": 2,
                     "lintErrorsFound": [
                       "ember/classic-decorator-no-classic-methods",
                       "ember/no-implicit-injections",
@@ -21491,11 +21597,13 @@
                 "fileCount": 3,
                 "deprecationsFound": [
                   "ember/require-computed-property-dependencies",
+                  "ember/no-deprecated-router-transition-methods",
+                  "ember/no-implicit-injections",
                   "ember/no-controller-access-in-routes",
                   "no-action",
                   "no-unknown-arguments-for-builtin-components"
                 ],
-                "deprecationsCount": 4,
+                "deprecationsCount": 6,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/require-computed-property-dependencies",
@@ -21546,9 +21654,10 @@
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
                     "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods",
                       "ember/no-controller-access-in-routes"
                     ],
-                    "deprecationsCount": 1,
+                    "deprecationsCount": 2,
                     "lintErrorsFound": [
                       "ember/classic-decorator-no-classic-methods",
                       "ember/no-deprecated-router-transition-methods",
@@ -21701,10 +21810,11 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
                   "ember/no-controller-access-in-routes",
                   "no-action"
                 ],
-                "deprecationsCount": 2,
+                "deprecationsCount": 3,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/classic-decorator-no-classic-methods",
@@ -21736,8 +21846,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/classic-decorator-hooks",
                       "ember/no-deprecated-router-transition-methods"
@@ -21908,11 +22020,12 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
                   "ember/no-controller-access-in-routes",
                   "no-action",
                   "no-unknown-arguments-for-builtin-components"
                 ],
-                "deprecationsCount": 3,
+                "deprecationsCount": 4,
                 "lintErrorsFound": [
                   "ember/classic-decorator-hooks",
                   "ember/no-deprecated-router-transition-methods",
@@ -21944,8 +22057,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-computed-properties-in-native-classes",
                       "ember/no-deprecated-router-transition-methods"
@@ -21959,8 +22074,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/classic-decorator-no-classic-methods",
                       "ember/no-deprecated-router-transition-methods"
@@ -22069,11 +22186,12 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
                   "no-action",
                   "no-unknown-arguments-for-builtin-components",
                   "no-link-to-tagname"
                 ],
-                "deprecationsCount": 3,
+                "deprecationsCount": 5,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/no-deprecated-router-transition-methods",
@@ -22120,8 +22238,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-implicit-injections"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-implicit-injections"
                     ],
@@ -22307,9 +22427,10 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-implicit-injections",
                   "no-action"
                 ],
-                "deprecationsCount": 1,
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "ember/classic-decorator-no-classic-methods",
                   "ember/no-implicit-injections",
@@ -22656,13 +22777,15 @@
             ],
             "fileCount": 51,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
               "ember/no-controller-access-in-routes",
               "no-action",
               "no-unknown-arguments-for-builtin-components",
               "ember/require-computed-property-dependencies",
-              "no-link-to-tagname"
+              "no-link-to-tagname",
+              "ember/no-implicit-injections"
             ],
-            "deprecationsCount": 45,
+            "deprecationsCount": 65,
             "lintErrorsFound": [
               "ember/no-deprecated-router-transition-methods",
               "ember/no-controller-access-in-routes",
@@ -22702,8 +22825,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/no-deprecated-router-transition-methods"
@@ -22718,9 +22843,10 @@
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
                 "deprecationsFound": [
+                  "ember/no-implicit-injections",
                   "ember/no-controller-access-in-routes"
                 ],
-                "deprecationsCount": 1,
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "ember/no-implicit-injections",
                   "ember/no-controller-access-in-routes"
@@ -22915,11 +23041,13 @@
             ],
             "fileCount": 3,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
+              "ember/no-implicit-injections",
               "ember/no-controller-access-in-routes",
               "no-action",
               "no-unknown-arguments-for-builtin-components"
             ],
-            "deprecationsCount": 3,
+            "deprecationsCount": 5,
             "lintErrorsFound": [
               "ember/no-computed-properties-in-native-classes",
               "ember/no-deprecated-router-transition-methods",
@@ -22964,8 +23092,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/classic-decorator-no-classic-methods",
                   "ember/no-deprecated-router-transition-methods"
@@ -23081,10 +23211,11 @@
             ],
             "fileCount": 3,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
               "no-unknown-arguments-for-builtin-components",
               "no-link-to-tagname"
             ],
-            "deprecationsCount": 2,
+            "deprecationsCount": 3,
             "lintErrorsFound": [
               "ember/no-computed-properties-in-native-classes",
               "ember/classic-decorator-no-classic-methods",
@@ -23386,8 +23517,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-deprecated-router-transition-methods"
                     ],
@@ -23569,9 +23702,10 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
                   "no-action"
                 ],
-                "deprecationsCount": 1,
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "ember/no-deprecated-router-transition-methods",
                   "no-action"
@@ -23584,9 +23718,10 @@
             ],
             "fileCount": 3,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
               "no-action"
             ],
-            "deprecationsCount": 1,
+            "deprecationsCount": 2,
             "lintErrorsFound": [
               "ember/no-deprecated-router-transition-methods",
               "no-action"
@@ -24013,8 +24148,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-deprecated-router-transition-methods"
                 ],
@@ -24040,9 +24177,10 @@
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
                     "deprecationsFound": [
+                      "ember/no-implicit-injections",
                       "ember/no-controller-access-in-routes"
                     ],
-                    "deprecationsCount": 1,
+                    "deprecationsCount": 2,
                     "lintErrorsFound": [
                       "ember/classic-decorator-no-classic-methods",
                       "ember/no-implicit-injections",
@@ -24215,10 +24353,11 @@
                 ],
                 "fileCount": 2,
                 "deprecationsFound": [
+                  "ember/no-implicit-injections",
                   "ember/no-controller-access-in-routes",
                   "no-action"
                 ],
-                "deprecationsCount": 2,
+                "deprecationsCount": 3,
                 "lintErrorsFound": [
                   "ember/classic-decorator-no-classic-methods",
                   "ember/no-implicit-injections",
@@ -24268,9 +24407,10 @@
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
                     "deprecationsFound": [
+                      "ember/no-implicit-injections",
                       "ember/no-controller-access-in-routes"
                     ],
-                    "deprecationsCount": 1,
+                    "deprecationsCount": 2,
                     "lintErrorsFound": [
                       "ember/no-implicit-injections",
                       "ember/no-controller-access-in-routes"
@@ -24482,11 +24622,12 @@
                 "fileCount": 3,
                 "deprecationsFound": [
                   "ember/require-computed-property-dependencies",
+                  "ember/no-implicit-injections",
                   "ember/no-controller-access-in-routes",
                   "no-action",
                   "no-unknown-arguments-for-builtin-components"
                 ],
-                "deprecationsCount": 4,
+                "deprecationsCount": 5,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/require-computed-property-dependencies",
@@ -24923,9 +25064,10 @@
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
                   "ember/no-controller-access-in-routes"
                 ],
-                "deprecationsCount": 1,
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "ember/classic-decorator-no-classic-methods",
                   "ember/no-deprecated-router-transition-methods",
@@ -25214,12 +25356,14 @@
             ],
             "fileCount": 15,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
+              "ember/no-implicit-injections",
               "ember/no-controller-access-in-routes",
               "no-action",
               "ember/require-computed-property-dependencies",
               "no-unknown-arguments-for-builtin-components"
             ],
-            "deprecationsCount": 14,
+            "deprecationsCount": 18,
             "lintErrorsFound": [
               "ember/no-deprecated-router-transition-methods",
               "ember/classic-decorator-no-classic-methods",
@@ -25254,8 +25398,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/classic-decorator-no-classic-methods",
                   "ember/no-deprecated-router-transition-methods"
@@ -25269,8 +25415,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/classic-decorator-no-classic-methods",
                   "ember/no-deprecated-router-transition-methods"
@@ -25459,11 +25607,12 @@
             ],
             "fileCount": 3,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
               "no-action",
               "no-unknown-arguments-for-builtin-components",
               "no-link-to-tagname"
             ],
-            "deprecationsCount": 3,
+            "deprecationsCount": 5,
             "lintErrorsFound": [
               "ember/classic-decorator-no-classic-methods",
               "ember/no-deprecated-router-transition-methods",
@@ -25480,13 +25629,15 @@
         "fileCount": 170,
         "deprecationsFound": [
           "ember/require-computed-property-dependencies",
+          "ember/no-implicit-injections",
           "no-action",
+          "ember/no-deprecated-router-transition-methods",
           "ember/no-controller-access-in-routes",
           "no-unknown-arguments-for-builtin-components",
           "no-link-to-tagname",
           "no-obscure-array-access"
         ],
-        "deprecationsCount": 113,
+        "deprecationsCount": 163,
         "lintErrorsFound": [
           "ember/no-computed-properties-in-native-classes",
           "prettier/prettier",
@@ -25535,9 +25686,10 @@
             "componentsDeprecationsCount": 0,
             "componentsDeprecationsFound": [],
             "deprecationsFound": [
-              "ember/require-computed-property-dependencies"
+              "ember/require-computed-property-dependencies",
+              "ember/no-deprecated-router-transition-methods"
             ],
-            "deprecationsCount": 1,
+            "deprecationsCount": 2,
             "lintErrorsFound": [
               "ember/no-computed-properties-in-native-classes",
               "ember/require-computed-property-dependencies",
@@ -25553,8 +25705,10 @@
             "componentAnalyserResults": [],
             "componentsDeprecationsCount": 0,
             "componentsDeprecationsFound": [],
-            "deprecationsFound": [],
-            "deprecationsCount": 0,
+            "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods"
+            ],
+            "deprecationsCount": 1,
             "lintErrorsFound": [
               "prettier/prettier",
               "ember/no-deprecated-router-transition-methods"
@@ -25949,9 +26103,10 @@
         "fileCount": 3,
         "deprecationsFound": [
           "ember/require-computed-property-dependencies",
+          "ember/no-deprecated-router-transition-methods",
           "no-action"
         ],
-        "deprecationsCount": 2,
+        "deprecationsCount": 4,
         "lintErrorsFound": [
           "ember/no-computed-properties-in-native-classes",
           "ember/require-computed-property-dependencies",
@@ -26105,8 +26260,11 @@
             "componentAnalyserResults": [],
             "componentsDeprecationsCount": 0,
             "componentsDeprecationsFound": [],
-            "deprecationsFound": [],
-            "deprecationsCount": 0,
+            "deprecationsFound": [
+              "ember/no-implicit-injections",
+              "ember/no-deprecated-router-transition-methods"
+            ],
+            "deprecationsCount": 2,
             "lintErrorsFound": [
               "ember/no-implicit-injections",
               "ember/no-deprecated-router-transition-methods"
@@ -26447,10 +26605,12 @@
         ],
         "fileCount": 3,
         "deprecationsFound": [
+          "ember/no-implicit-injections",
+          "ember/no-deprecated-router-transition-methods",
           "ember/no-classic-classes",
           "no-action"
         ],
-        "deprecationsCount": 2,
+        "deprecationsCount": 4,
         "lintErrorsFound": [
           "ember/no-implicit-injections",
           "ember/no-deprecated-router-transition-methods",
@@ -27496,8 +27656,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-implicit-injections"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-implicit-injections"
                     ],
@@ -27740,9 +27902,10 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-implicit-injections",
                   "no-action"
                 ],
-                "deprecationsCount": 1,
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "ember/no-implicit-injections",
                   "no-action"
@@ -27773,8 +27936,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-computed-properties-in-native-classes",
                       "ember/no-deprecated-router-transition-methods"
@@ -28025,9 +28190,10 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
                   "no-action"
                 ],
-                "deprecationsCount": 1,
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/no-deprecated-router-transition-methods",
@@ -28173,9 +28339,11 @@
             ],
             "fileCount": 13,
             "deprecationsFound": [
-              "no-action"
+              "no-action",
+              "ember/no-implicit-injections",
+              "ember/no-deprecated-router-transition-methods"
             ],
-            "deprecationsCount": 4,
+            "deprecationsCount": 6,
             "lintErrorsFound": [
               "ember/no-computed-properties-in-native-classes",
               "no-action",
@@ -28199,8 +28367,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-deprecated-router-transition-methods"
                 ],
@@ -28208,8 +28378,10 @@
               }
             ],
             "fileCount": 1,
-            "deprecationsFound": [],
-            "deprecationsCount": 0,
+            "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods"
+            ],
+            "deprecationsCount": 1,
             "lintErrorsFound": [
               "ember/no-deprecated-router-transition-methods"
             ],
@@ -28814,9 +28986,10 @@
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
                     "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods",
                       "ember/no-controller-access-in-routes"
                     ],
-                    "deprecationsCount": 1,
+                    "deprecationsCount": 2,
                     "lintErrorsFound": [
                       "ember/no-deprecated-router-transition-methods",
                       "ember/no-controller-access-in-routes"
@@ -29256,10 +29429,11 @@
                 "fileCount": 3,
                 "deprecationsFound": [
                   "ember/require-computed-property-dependencies",
+                  "ember/no-deprecated-router-transition-methods",
                   "ember/no-controller-access-in-routes",
                   "no-action"
                 ],
-                "deprecationsCount": 3,
+                "deprecationsCount": 4,
                 "lintErrorsFound": [
                   "prettier/prettier",
                   "ember/no-computed-properties-in-native-classes",
@@ -29281,8 +29455,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-implicit-injections"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "prettier/prettier",
                   "ember/no-implicit-injections"
@@ -29294,9 +29470,11 @@
             "deprecationsFound": [
               "no-action",
               "ember/require-computed-property-dependencies",
-              "ember/no-controller-access-in-routes"
+              "ember/no-deprecated-router-transition-methods",
+              "ember/no-controller-access-in-routes",
+              "ember/no-implicit-injections"
             ],
-            "deprecationsCount": 4,
+            "deprecationsCount": 6,
             "lintErrorsFound": [
               "prettier/prettier",
               "no-action",
@@ -29350,8 +29528,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-implicit-injections"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-implicit-injections"
                 ],
@@ -29710,9 +29890,10 @@
             ],
             "fileCount": 3,
             "deprecationsFound": [
+              "ember/no-implicit-injections",
               "no-action"
             ],
-            "deprecationsCount": 1,
+            "deprecationsCount": 2,
             "lintErrorsFound": [
               "prettier/prettier",
               "ember/classic-decorator-no-classic-methods",
@@ -30070,8 +30251,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-implicit-injections"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-implicit-injections"
                     ],
@@ -30280,9 +30463,10 @@
                 "fileCount": 3,
                 "deprecationsFound": [
                   "ember/require-computed-property-dependencies",
+                  "ember/no-implicit-injections",
                   "no-action"
                 ],
-                "deprecationsCount": 2,
+                "deprecationsCount": 3,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/require-computed-property-dependencies",
@@ -30319,9 +30503,10 @@
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
                     "deprecationsFound": [
-                      "ember/require-computed-property-dependencies"
+                      "ember/require-computed-property-dependencies",
+                      "ember/no-deprecated-router-transition-methods"
                     ],
-                    "deprecationsCount": 1,
+                    "deprecationsCount": 2,
                     "lintErrorsFound": [
                       "ember/no-computed-properties-in-native-classes",
                       "ember/require-computed-property-dependencies",
@@ -30337,8 +30522,11 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-implicit-injections",
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 2,
                     "lintErrorsFound": [
                       "ember/no-implicit-injections",
                       "ember/no-deprecated-router-transition-methods"
@@ -30697,9 +30885,11 @@
                 "fileCount": 3,
                 "deprecationsFound": [
                   "ember/require-computed-property-dependencies",
+                  "ember/no-deprecated-router-transition-methods",
+                  "ember/no-implicit-injections",
                   "no-action"
                 ],
-                "deprecationsCount": 2,
+                "deprecationsCount": 5,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/require-computed-property-dependencies",
@@ -30825,9 +31015,11 @@
             "fileCount": 13,
             "deprecationsFound": [
               "no-action",
-              "ember/require-computed-property-dependencies"
+              "ember/require-computed-property-dependencies",
+              "ember/no-implicit-injections",
+              "ember/no-deprecated-router-transition-methods"
             ],
-            "deprecationsCount": 6,
+            "deprecationsCount": 10,
             "lintErrorsFound": [
               "ember/no-computed-properties-in-native-classes",
               "no-action",
@@ -30894,8 +31086,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-implicit-injections"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-implicit-injections"
                     ],
@@ -31109,9 +31303,10 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-implicit-injections",
                   "no-action"
                 ],
-                "deprecationsCount": 1,
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/no-implicit-injections",
@@ -31369,8 +31564,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "prettier/prettier",
                       "ember/no-computed-properties-in-native-classes",
@@ -31386,8 +31583,11 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-implicit-injections",
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 2,
                     "lintErrorsFound": [
                       "ember/no-implicit-injections",
                       "ember/no-deprecated-router-transition-methods"
@@ -31829,9 +32029,11 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
+                  "ember/no-implicit-injections",
                   "no-action"
                 ],
-                "deprecationsCount": 1,
+                "deprecationsCount": 4,
                 "lintErrorsFound": [
                   "prettier/prettier",
                   "ember/no-computed-properties-in-native-classes",
@@ -31954,9 +32156,11 @@
             ],
             "fileCount": 13,
             "deprecationsFound": [
-              "no-action"
+              "ember/no-implicit-injections",
+              "no-action",
+              "ember/no-deprecated-router-transition-methods"
             ],
-            "deprecationsCount": 4,
+            "deprecationsCount": 8,
             "lintErrorsFound": [
               "ember/no-computed-properties-in-native-classes",
               "ember/no-implicit-injections",
@@ -31986,10 +32190,12 @@
         "fileCount": 55,
         "deprecationsFound": [
           "no-action",
+          "ember/no-implicit-injections",
+          "ember/no-deprecated-router-transition-methods",
           "ember/require-computed-property-dependencies",
           "ember/no-controller-access-in-routes"
         ],
-        "deprecationsCount": 19,
+        "deprecationsCount": 33,
         "lintErrorsFound": [
           "ember/no-computed-properties-in-native-classes",
           "no-action",
@@ -32305,8 +32511,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "prettier/prettier",
                       "ember/no-deprecated-router-transition-methods"
@@ -32456,8 +32664,10 @@
                   }
                 ],
                 "fileCount": 3,
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "prettier/prettier",
                   "ember/no-deprecated-router-transition-methods"
@@ -32470,9 +32680,10 @@
             ],
             "fileCount": 6,
             "deprecationsFound": [
-              "no-action"
+              "no-action",
+              "ember/no-deprecated-router-transition-methods"
             ],
-            "deprecationsCount": 1,
+            "deprecationsCount": 2,
             "lintErrorsFound": [
               "prettier/prettier",
               "no-action",
@@ -32494,8 +32705,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-deprecated-router-transition-methods"
                 ],
@@ -32503,8 +32716,10 @@
               }
             ],
             "fileCount": 1,
-            "deprecationsFound": [],
-            "deprecationsCount": 0,
+            "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods"
+            ],
+            "deprecationsCount": 1,
             "lintErrorsFound": [
               "ember/no-deprecated-router-transition-methods"
             ],
@@ -32553,8 +32768,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-implicit-injections"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-implicit-injections"
                 ],
@@ -32960,9 +33177,10 @@
             "fileCount": 3,
             "deprecationsFound": [
               "ember/require-computed-property-dependencies",
+              "ember/no-implicit-injections",
               "no-action"
             ],
-            "deprecationsCount": 2,
+            "deprecationsCount": 3,
             "lintErrorsFound": [
               "ember/no-computed-properties-in-native-classes",
               "ember/require-computed-property-dependencies",
@@ -33003,9 +33221,11 @@
         "fileCount": 12,
         "deprecationsFound": [
           "no-action",
-          "ember/require-computed-property-dependencies"
+          "ember/no-deprecated-router-transition-methods",
+          "ember/require-computed-property-dependencies",
+          "ember/no-implicit-injections"
         ],
-        "deprecationsCount": 3,
+        "deprecationsCount": 6,
         "lintErrorsFound": [
           "prettier/prettier",
           "no-action",
@@ -33092,8 +33312,10 @@
             "componentAnalyserResults": [],
             "componentsDeprecationsCount": 0,
             "componentsDeprecationsFound": [],
-            "deprecationsFound": [],
-            "deprecationsCount": 0,
+            "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods"
+            ],
+            "deprecationsCount": 1,
             "lintErrorsFound": [
               "ember/no-deprecated-router-transition-methods"
             ],
@@ -33113,8 +33335,10 @@
           }
         ],
         "fileCount": 2,
-        "deprecationsFound": [],
-        "deprecationsCount": 0,
+        "deprecationsFound": [
+          "ember/no-deprecated-router-transition-methods"
+        ],
+        "deprecationsCount": 1,
         "lintErrorsFound": [
           "ember/no-deprecated-router-transition-methods"
         ],
@@ -33218,8 +33442,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-deprecated-router-transition-methods"
                 ],
@@ -33227,8 +33453,10 @@
               }
             ],
             "fileCount": 1,
-            "deprecationsFound": [],
-            "deprecationsCount": 0,
+            "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods"
+            ],
+            "deprecationsCount": 1,
             "lintErrorsFound": [
               "ember/no-deprecated-router-transition-methods"
             ],
@@ -33276,8 +33504,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "prettier/prettier",
                   "ember/classic-decorator-no-classic-methods",
@@ -33772,9 +34002,10 @@
             ],
             "fileCount": 3,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
               "no-action"
             ],
-            "deprecationsCount": 1,
+            "deprecationsCount": 2,
             "lintErrorsFound": [
               "prettier/prettier",
               "ember/classic-decorator-no-classic-methods",
@@ -33827,8 +34058,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "prettier/prettier",
                   "ember/classic-decorator-no-classic-methods",
@@ -34282,9 +34515,10 @@
             ],
             "fileCount": 3,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
               "no-action"
             ],
-            "deprecationsCount": 1,
+            "deprecationsCount": 2,
             "lintErrorsFound": [
               "ember/no-computed-properties-in-native-classes",
               "ember/classic-decorator-no-classic-methods",
@@ -34305,9 +34539,11 @@
             "componentsDeprecationsCount": 0,
             "componentsDeprecationsFound": [],
             "deprecationsFound": [
+              "ember/no-implicit-injections",
+              "ember/no-deprecated-router-transition-methods",
               "ember/no-controller-access-in-routes"
             ],
-            "deprecationsCount": 1,
+            "deprecationsCount": 3,
             "lintErrorsFound": [
               "prettier/prettier",
               "ember/classic-decorator-no-classic-methods",
@@ -34363,8 +34599,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "prettier/prettier",
                   "ember/classic-decorator-no-classic-methods",
@@ -34919,9 +35157,10 @@
             "fileCount": 3,
             "deprecationsFound": [
               "ember/require-computed-property-dependencies",
+              "ember/no-deprecated-router-transition-methods",
               "no-action"
             ],
-            "deprecationsCount": 2,
+            "deprecationsCount": 3,
             "lintErrorsFound": [
               "prettier/prettier",
               "ember/no-computed-properties-in-native-classes",
@@ -35296,11 +35535,13 @@
         ],
         "fileCount": 16,
         "deprecationsFound": [
+          "ember/no-deprecated-router-transition-methods",
           "no-action",
+          "ember/no-implicit-injections",
           "ember/no-controller-access-in-routes",
           "ember/require-computed-property-dependencies"
         ],
-        "deprecationsCount": 6,
+        "deprecationsCount": 12,
         "lintErrorsFound": [
           "ember/no-deprecated-router-transition-methods",
           "prettier/prettier",
@@ -35337,8 +35578,10 @@
             "componentAnalyserResults": [],
             "componentsDeprecationsCount": 0,
             "componentsDeprecationsFound": [],
-            "deprecationsFound": [],
-            "deprecationsCount": 0,
+            "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods"
+            ],
+            "deprecationsCount": 1,
             "lintErrorsFound": [
               "ember/no-computed-properties-in-native-classes",
               "ember/no-deprecated-router-transition-methods"
@@ -35352,8 +35595,10 @@
             "componentAnalyserResults": [],
             "componentsDeprecationsCount": 0,
             "componentsDeprecationsFound": [],
-            "deprecationsFound": [],
-            "deprecationsCount": 0,
+            "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods"
+            ],
+            "deprecationsCount": 1,
             "lintErrorsFound": [
               "ember/no-deprecated-router-transition-methods"
             ],
@@ -35527,9 +35772,10 @@
         ],
         "fileCount": 3,
         "deprecationsFound": [
+          "ember/no-deprecated-router-transition-methods",
           "no-action"
         ],
-        "deprecationsCount": 1,
+        "deprecationsCount": 3,
         "lintErrorsFound": [
           "ember/no-computed-properties-in-native-classes",
           "ember/no-deprecated-router-transition-methods",
@@ -35980,8 +36226,10 @@
             "componentAnalyserResults": [],
             "componentsDeprecationsCount": 0,
             "componentsDeprecationsFound": [],
-            "deprecationsFound": [],
-            "deprecationsCount": 0,
+            "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods"
+            ],
+            "deprecationsCount": 1,
             "lintErrorsFound": [
               "ember/classic-decorator-no-classic-methods",
               "ember/no-deprecated-router-transition-methods"
@@ -35990,8 +36238,10 @@
           }
         ],
         "fileCount": 1,
-        "deprecationsFound": [],
-        "deprecationsCount": 0,
+        "deprecationsFound": [
+          "ember/no-deprecated-router-transition-methods"
+        ],
+        "deprecationsCount": 1,
         "lintErrorsFound": [
           "ember/classic-decorator-no-classic-methods",
           "ember/no-deprecated-router-transition-methods"
@@ -36082,8 +36332,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "prettier/prettier",
                   "ember/no-deprecated-router-transition-methods"
@@ -36453,9 +36705,10 @@
             ],
             "fileCount": 3,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
               "no-action"
             ],
-            "deprecationsCount": 1,
+            "deprecationsCount": 2,
             "lintErrorsFound": [
               "prettier/prettier",
               "ember/no-computed-properties-in-native-classes",
@@ -36506,8 +36759,11 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-implicit-injections",
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "ember/no-implicit-injections",
                   "ember/no-deprecated-router-transition-methods"
@@ -36885,9 +37141,11 @@
             ],
             "fileCount": 3,
             "deprecationsFound": [
+              "ember/no-implicit-injections",
+              "ember/no-deprecated-router-transition-methods",
               "no-action"
             ],
-            "deprecationsCount": 1,
+            "deprecationsCount": 3,
             "lintErrorsFound": [
               "ember/classic-decorator-no-classic-methods",
               "ember/no-implicit-injections",
@@ -36938,8 +37196,11 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-implicit-injections",
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 2,
                     "lintErrorsFound": [
                       "prettier/prettier",
                       "ember/no-computed-properties-in-native-classes",
@@ -37300,9 +37561,11 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-implicit-injections",
+                  "ember/no-deprecated-router-transition-methods",
                   "no-action"
                 ],
-                "deprecationsCount": 1,
+                "deprecationsCount": 3,
                 "lintErrorsFound": [
                   "prettier/prettier",
                   "ember/no-computed-properties-in-native-classes",
@@ -37335,8 +37598,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-deprecated-router-transition-methods"
                     ],
@@ -37473,8 +37738,10 @@
                   }
                 ],
                 "fileCount": 2,
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-deprecated-router-transition-methods"
                 ],
@@ -37489,8 +37756,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-deprecated-router-transition-methods"
                 ],
@@ -37499,9 +37768,11 @@
             ],
             "fileCount": 6,
             "deprecationsFound": [
+              "ember/no-implicit-injections",
+              "ember/no-deprecated-router-transition-methods",
               "no-action"
             ],
-            "deprecationsCount": 1,
+            "deprecationsCount": 5,
             "lintErrorsFound": [
               "prettier/prettier",
               "ember/no-computed-properties-in-native-classes",
@@ -37549,8 +37820,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-deprecated-router-transition-methods"
                 ],
@@ -37872,9 +38145,10 @@
             ],
             "fileCount": 3,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
               "no-action"
             ],
-            "deprecationsCount": 1,
+            "deprecationsCount": 2,
             "lintErrorsFound": [
               "ember/no-deprecated-router-transition-methods",
               "no-action"
@@ -37920,8 +38194,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-deprecated-router-transition-methods"
                 ],
@@ -38177,10 +38453,11 @@
             ],
             "fileCount": 3,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
               "no-action",
               "builtin-component-arguments"
             ],
-            "deprecationsCount": 2,
+            "deprecationsCount": 3,
             "lintErrorsFound": [
               "ember/no-computed-properties-in-native-classes",
               "ember/classic-decorator-no-classic-methods",
@@ -38369,8 +38646,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "prettier/prettier",
                       "ember/no-deprecated-router-transition-methods"
@@ -38451,8 +38730,10 @@
                   }
                 ],
                 "fileCount": 3,
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "prettier/prettier",
                   "ember/no-deprecated-router-transition-methods"
@@ -38678,9 +38959,10 @@
             ],
             "fileCount": 10,
             "deprecationsFound": [
-              "no-action"
+              "no-action",
+              "ember/no-deprecated-router-transition-methods"
             ],
-            "deprecationsCount": 1,
+            "deprecationsCount": 2,
             "lintErrorsFound": [
               "no-action",
               "prettier/prettier",
@@ -38720,8 +39002,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "prettier/prettier",
                       "ember/no-deprecated-router-transition-methods"
@@ -38873,8 +39157,10 @@
                   }
                 ],
                 "fileCount": 3,
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "prettier/prettier",
                   "ember/no-deprecated-router-transition-methods"
@@ -39061,9 +39347,10 @@
             ],
             "fileCount": 6,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
               "no-action"
             ],
-            "deprecationsCount": 1,
+            "deprecationsCount": 2,
             "lintErrorsFound": [
               "prettier/prettier",
               "ember/no-deprecated-router-transition-methods",
@@ -39110,8 +39397,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-deprecated-router-transition-methods"
                 ],
@@ -39428,9 +39717,10 @@
             ],
             "fileCount": 3,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
               "no-action"
             ],
-            "deprecationsCount": 1,
+            "deprecationsCount": 2,
             "lintErrorsFound": [
               "prettier/prettier",
               "ember/no-deprecated-router-transition-methods",
@@ -40358,8 +40648,11 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-implicit-injections",
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "prettier/prettier",
                   "ember/no-implicit-injections",
@@ -40371,9 +40664,11 @@
             "fileCount": 5,
             "deprecationsFound": [
               "ember/require-computed-property-dependencies",
-              "ember/no-controller-access-in-routes"
+              "ember/no-controller-access-in-routes",
+              "ember/no-implicit-injections",
+              "ember/no-deprecated-router-transition-methods"
             ],
-            "deprecationsCount": 2,
+            "deprecationsCount": 4,
             "lintErrorsFound": [
               "prettier/prettier",
               "ember/no-computed-properties-in-native-classes",
@@ -40395,8 +40690,10 @@
             "componentAnalyserResults": [],
             "componentsDeprecationsCount": 0,
             "componentsDeprecationsFound": [],
-            "deprecationsFound": [],
-            "deprecationsCount": 0,
+            "deprecationsFound": [
+              "ember/no-implicit-injections"
+            ],
+            "deprecationsCount": 1,
             "lintErrorsFound": [
               "prettier/prettier",
               "ember/no-implicit-injections"
@@ -41260,8 +41557,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-deprecated-router-transition-methods"
                 ],
@@ -41540,9 +41839,10 @@
             ],
             "fileCount": 3,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
               "no-action"
             ],
-            "deprecationsCount": 1,
+            "deprecationsCount": 2,
             "lintErrorsFound": [
               "ember/no-computed-properties-in-native-classes",
               "ember/no-deprecated-router-transition-methods",
@@ -41556,13 +41856,15 @@
         ],
         "fileCount": 52,
         "deprecationsFound": [
+          "ember/no-deprecated-router-transition-methods",
           "no-action",
+          "ember/no-implicit-injections",
           "builtin-component-arguments",
           "ember/require-computed-property-dependencies",
           "ember/no-controller-access-in-routes",
           "no-array-prototype-extensions"
         ],
-        "deprecationsCount": 15,
+        "deprecationsCount": 31,
         "lintErrorsFound": [
           "prettier/prettier",
           "ember/no-computed-properties-in-native-classes",
@@ -41762,8 +42064,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-implicit-injections"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-implicit-injections"
                 ],
@@ -42050,9 +42354,10 @@
             ],
             "fileCount": 3,
             "deprecationsFound": [
+              "ember/no-implicit-injections",
               "no-action"
             ],
-            "deprecationsCount": 1,
+            "deprecationsCount": 2,
             "lintErrorsFound": [
               "ember/no-implicit-injections",
               "no-action"
@@ -42674,10 +42979,11 @@
         ],
         "fileCount": 10,
         "deprecationsFound": [
+          "ember/no-implicit-injections",
           "no-action",
           "builtin-component-arguments"
         ],
-        "deprecationsCount": 3,
+        "deprecationsCount": 4,
         "lintErrorsFound": [
           "ember/no-implicit-injections",
           "no-action",
@@ -44107,8 +44413,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-computed-properties-in-native-classes",
                       "ember/classic-decorator-no-classic-methods",
@@ -44474,9 +44782,10 @@
                 ],
                 "fileCount": 2,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
                   "no-action"
                 ],
-                "deprecationsCount": 1,
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/classic-decorator-no-classic-methods",
@@ -44490,9 +44799,10 @@
             ],
             "fileCount": 2,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
               "no-action"
             ],
-            "deprecationsCount": 1,
+            "deprecationsCount": 2,
             "lintErrorsFound": [
               "ember/no-computed-properties-in-native-classes",
               "ember/classic-decorator-no-classic-methods",
@@ -46751,8 +47061,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/classic-decorator-no-classic-methods",
                       "ember/no-deprecated-router-transition-methods"
@@ -47002,9 +47314,10 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
                   "no-action"
                 ],
-                "deprecationsCount": 1,
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "prettier/prettier",
                   "ember/no-computed-properties-in-native-classes",
@@ -47038,9 +47351,10 @@
               "no-curly-component-invocation",
               "no-implicit-this",
               "no-link-to-positional-params",
-              "no-unknown-arguments-for-builtin-components"
+              "no-unknown-arguments-for-builtin-components",
+              "ember/no-deprecated-router-transition-methods"
             ],
-            "deprecationsCount": 30,
+            "deprecationsCount": 31,
             "lintErrorsFound": [
               "ember/no-classic-classes",
               "prettier/prettier",
@@ -47251,9 +47565,10 @@
           "no-link-to-positional-params",
           "ember/no-controller-access-in-routes",
           "ember/require-computed-property-dependencies",
+          "ember/no-deprecated-router-transition-methods",
           "no-unknown-arguments-for-builtin-components"
         ],
-        "deprecationsCount": 89,
+        "deprecationsCount": 91,
         "lintErrorsFound": [
           "ember/no-classic-classes",
           "prettier/prettier",
@@ -47327,8 +47642,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "prettier/prettier",
                       "ember/no-deprecated-router-transition-methods"
@@ -47496,9 +47813,10 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
                   "ember/no-controller-access-in-routes"
                 ],
-                "deprecationsCount": 1,
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "prettier/prettier",
                   "ember/no-deprecated-router-transition-methods",
@@ -47527,8 +47845,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "prettier/prettier",
                       "ember/no-deprecated-router-transition-methods"
@@ -47696,9 +48016,10 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
                   "ember/no-controller-access-in-routes"
                 ],
-                "deprecationsCount": 1,
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "prettier/prettier",
                   "ember/no-deprecated-router-transition-methods",
@@ -47893,10 +48214,11 @@
             ],
             "fileCount": 9,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
               "ember/no-controller-access-in-routes",
               "no-action"
             ],
-            "deprecationsCount": 3,
+            "deprecationsCount": 5,
             "lintErrorsFound": [
               "prettier/prettier",
               "ember/no-deprecated-router-transition-methods",
@@ -48757,8 +49079,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-deprecated-router-transition-methods"
                     ],
@@ -49064,9 +49388,10 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
                   "no-action"
                 ],
-                "deprecationsCount": 1,
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "ember/no-deprecated-router-transition-methods",
                   "no-action"
@@ -49758,9 +50083,10 @@
             ],
             "fileCount": 13,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
               "no-action"
             ],
-            "deprecationsCount": 3,
+            "deprecationsCount": 4,
             "lintErrorsFound": [
               "ember/no-deprecated-router-transition-methods",
               "no-action"
@@ -49799,8 +50125,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "prettier/prettier",
                       "ember/no-deprecated-router-transition-methods"
@@ -49957,9 +50285,10 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
                   "ember/no-controller-access-in-routes"
                 ],
-                "deprecationsCount": 1,
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "prettier/prettier",
                   "ember/no-deprecated-router-transition-methods",
@@ -49988,8 +50317,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "prettier/prettier",
                       "ember/no-deprecated-router-transition-methods"
@@ -50146,9 +50477,10 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
                   "ember/no-controller-access-in-routes"
                 ],
-                "deprecationsCount": 1,
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "prettier/prettier",
                   "ember/no-deprecated-router-transition-methods",
@@ -50343,10 +50675,11 @@
             ],
             "fileCount": 9,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
               "ember/no-controller-access-in-routes",
               "no-action"
             ],
-            "deprecationsCount": 3,
+            "deprecationsCount": 5,
             "lintErrorsFound": [
               "prettier/prettier",
               "ember/no-deprecated-router-transition-methods",
@@ -50588,10 +50921,11 @@
         ],
         "fileCount": 41,
         "deprecationsFound": [
+          "ember/no-deprecated-router-transition-methods",
           "ember/no-controller-access-in-routes",
           "no-action"
         ],
-        "deprecationsCount": 10,
+        "deprecationsCount": 15,
         "lintErrorsFound": [
           "prettier/prettier",
           "ember/no-deprecated-router-transition-methods",
@@ -50619,8 +50953,10 @@
             "componentAnalyserResults": [],
             "componentsDeprecationsCount": 0,
             "componentsDeprecationsFound": [],
-            "deprecationsFound": [],
-            "deprecationsCount": 0,
+            "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods"
+            ],
+            "deprecationsCount": 1,
             "lintErrorsFound": [
               "ember/no-computed-properties-in-native-classes",
               "ember/classic-decorator-no-classic-methods",
@@ -50740,8 +51076,10 @@
           }
         ],
         "fileCount": 3,
-        "deprecationsFound": [],
-        "deprecationsCount": 0,
+        "deprecationsFound": [
+          "ember/no-deprecated-router-transition-methods"
+        ],
+        "deprecationsCount": 1,
         "lintErrorsFound": [
           "ember/no-computed-properties-in-native-classes",
           "ember/classic-decorator-no-classic-methods",
@@ -51231,8 +51569,10 @@
                         "componentAnalyserResults": [],
                         "componentsDeprecationsCount": 0,
                         "componentsDeprecationsFound": [],
-                        "deprecationsFound": [],
-                        "deprecationsCount": 0,
+                        "deprecationsFound": [
+                          "ember/no-deprecated-router-transition-methods"
+                        ],
+                        "deprecationsCount": 1,
                         "lintErrorsFound": [
                           "ember/no-deprecated-router-transition-methods"
                         ],
@@ -51328,9 +51668,10 @@
                     ],
                     "fileCount": 2,
                     "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods",
                       "no-curly-component-invocation"
                     ],
-                    "deprecationsCount": 1,
+                    "deprecationsCount": 2,
                     "lintErrorsFound": [
                       "ember/no-deprecated-router-transition-methods",
                       "no-curly-component-invocation"
@@ -51369,8 +51710,10 @@
                         "componentAnalyserResults": [],
                         "componentsDeprecationsCount": 0,
                         "componentsDeprecationsFound": [],
-                        "deprecationsFound": [],
-                        "deprecationsCount": 0,
+                        "deprecationsFound": [
+                          "ember/no-implicit-injections"
+                        ],
+                        "deprecationsCount": 1,
                         "lintErrorsFound": [
                           "prettier/prettier",
                           "ember/no-implicit-injections"
@@ -51510,11 +51853,12 @@
                     ],
                     "fileCount": 3,
                     "deprecationsFound": [
+                      "ember/no-implicit-injections",
                       "no-action",
                       "no-curly-component-invocation",
                       "no-implicit-this"
                     ],
-                    "deprecationsCount": 3,
+                    "deprecationsCount": 4,
                     "lintErrorsFound": [
                       "prettier/prettier",
                       "ember/no-implicit-injections",
@@ -51721,12 +52065,14 @@
                 ],
                 "fileCount": 10,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
                   "no-curly-component-invocation",
+                  "ember/no-implicit-injections",
                   "no-action",
                   "no-implicit-this",
                   "ember/no-classic-classes"
                 ],
-                "deprecationsCount": 9,
+                "deprecationsCount": 11,
                 "lintErrorsFound": [
                   "ember/no-deprecated-router-transition-methods",
                   "no-curly-component-invocation",
@@ -51873,8 +52219,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-implicit-injections"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "prettier/prettier",
                       "ember/no-implicit-injections"
@@ -51889,9 +52237,10 @@
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
                     "deprecationsFound": [
+                      "ember/no-implicit-injections",
                       "ember/no-controller-access-in-routes"
                     ],
-                    "deprecationsCount": 1,
+                    "deprecationsCount": 2,
                     "lintErrorsFound": [
                       "prettier/prettier",
                       "ember/no-implicit-injections",
@@ -51973,9 +52322,10 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-implicit-injections",
                   "ember/no-controller-access-in-routes"
                 ],
-                "deprecationsCount": 1,
+                "deprecationsCount": 3,
                 "lintErrorsFound": [
                   "prettier/prettier",
                   "ember/no-implicit-injections",
@@ -51993,8 +52343,11 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-implicit-injections",
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "prettier/prettier",
                   "ember/no-implicit-injections",
@@ -52130,9 +52483,11 @@
               "no-implicit-this",
               "no-action",
               "link-href-attributes",
+              "ember/no-deprecated-router-transition-methods",
+              "ember/no-implicit-injections",
               "ember/no-controller-access-in-routes"
             ],
-            "deprecationsCount": 27,
+            "deprecationsCount": 33,
             "lintErrorsFound": [
               "ember/no-classic-classes",
               "no-curly-component-invocation",
@@ -52313,8 +52668,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/classic-decorator-no-classic-methods",
                   "ember/no-deprecated-router-transition-methods"
@@ -52494,10 +52851,11 @@
             ],
             "fileCount": 3,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
               "no-action",
               "no-unknown-arguments-for-builtin-components"
             ],
-            "deprecationsCount": 2,
+            "deprecationsCount": 3,
             "lintErrorsFound": [
               "ember/classic-decorator-no-classic-methods",
               "ember/no-deprecated-router-transition-methods",
@@ -52533,10 +52891,12 @@
           "no-implicit-this",
           "no-action",
           "link-href-attributes",
+          "ember/no-deprecated-router-transition-methods",
+          "ember/no-implicit-injections",
           "ember/no-controller-access-in-routes",
           "no-unknown-arguments-for-builtin-components"
         ],
-        "deprecationsCount": 30,
+        "deprecationsCount": 37,
         "lintErrorsFound": [
           "ember/no-classic-classes",
           "no-curly-component-invocation",
@@ -52882,8 +53242,10 @@
                         "componentAnalyserResults": [],
                         "componentsDeprecationsCount": 0,
                         "componentsDeprecationsFound": [],
-                        "deprecationsFound": [],
-                        "deprecationsCount": 0,
+                        "deprecationsFound": [
+                          "ember/no-deprecated-router-transition-methods"
+                        ],
+                        "deprecationsCount": 1,
                         "lintErrorsFound": [
                           "ember/no-computed-properties-in-native-classes",
                           "ember/classic-decorator-no-classic-methods",
@@ -52898,8 +53260,10 @@
                         "componentAnalyserResults": [],
                         "componentsDeprecationsCount": 0,
                         "componentsDeprecationsFound": [],
-                        "deprecationsFound": [],
-                        "deprecationsCount": 0,
+                        "deprecationsFound": [
+                          "ember/no-implicit-injections"
+                        ],
+                        "deprecationsCount": 1,
                         "lintErrorsFound": [
                           "ember/classic-decorator-no-classic-methods",
                           "ember/no-implicit-injections"
@@ -53379,9 +53743,11 @@
                     ],
                     "fileCount": 3,
                     "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods",
+                      "ember/no-implicit-injections",
                       "no-action"
                     ],
-                    "deprecationsCount": 1,
+                    "deprecationsCount": 3,
                     "lintErrorsFound": [
                       "ember/no-computed-properties-in-native-classes",
                       "ember/classic-decorator-no-classic-methods",
@@ -53429,8 +53795,10 @@
                         "componentAnalyserResults": [],
                         "componentsDeprecationsCount": 0,
                         "componentsDeprecationsFound": [],
-                        "deprecationsFound": [],
-                        "deprecationsCount": 0,
+                        "deprecationsFound": [
+                          "ember/no-deprecated-router-transition-methods"
+                        ],
+                        "deprecationsCount": 1,
                         "lintErrorsFound": [
                           "ember/no-computed-properties-in-native-classes",
                           "ember/no-deprecated-router-transition-methods"
@@ -53785,9 +54153,10 @@
                     ],
                     "fileCount": 3,
                     "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods",
                       "no-action"
                     ],
-                    "deprecationsCount": 1,
+                    "deprecationsCount": 2,
                     "lintErrorsFound": [
                       "ember/no-computed-properties-in-native-classes",
                       "ember/no-deprecated-router-transition-methods",
@@ -53828,9 +54197,10 @@
                         "componentsDeprecationsCount": 0,
                         "componentsDeprecationsFound": [],
                         "deprecationsFound": [
-                          "ember/require-computed-property-dependencies"
+                          "ember/require-computed-property-dependencies",
+                          "ember/no-deprecated-router-transition-methods"
                         ],
-                        "deprecationsCount": 1,
+                        "deprecationsCount": 2,
                         "lintErrorsFound": [
                           "ember/no-computed-properties-in-native-classes",
                           "ember/require-computed-property-dependencies",
@@ -53846,8 +54216,10 @@
                         "componentAnalyserResults": [],
                         "componentsDeprecationsCount": 0,
                         "componentsDeprecationsFound": [],
-                        "deprecationsFound": [],
-                        "deprecationsCount": 0,
+                        "deprecationsFound": [
+                          "ember/no-implicit-injections"
+                        ],
+                        "deprecationsCount": 1,
                         "lintErrorsFound": [
                           "ember/classic-decorator-no-classic-methods",
                           "ember/no-implicit-injections"
@@ -54390,9 +54762,11 @@
                     "fileCount": 3,
                     "deprecationsFound": [
                       "ember/require-computed-property-dependencies",
+                      "ember/no-deprecated-router-transition-methods",
+                      "ember/no-implicit-injections",
                       "no-action"
                     ],
-                    "deprecationsCount": 2,
+                    "deprecationsCount": 4,
                     "lintErrorsFound": [
                       "ember/no-computed-properties-in-native-classes",
                       "ember/require-computed-property-dependencies",
@@ -54413,8 +54787,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-implicit-injections"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/classic-decorator-no-classic-methods",
                       "ember/no-implicit-injections"
@@ -54436,10 +54812,12 @@
                 ],
                 "fileCount": 12,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
+                  "ember/no-implicit-injections",
                   "no-action",
                   "ember/require-computed-property-dependencies"
                 ],
-                "deprecationsCount": 4,
+                "deprecationsCount": 10,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/classic-decorator-no-classic-methods",
@@ -54471,8 +54849,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/classic-decorator-no-classic-methods",
                       "ember/no-deprecated-router-transition-methods"
@@ -54610,8 +54990,10 @@
                   }
                 ],
                 "fileCount": 2,
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/classic-decorator-no-classic-methods",
                   "ember/no-deprecated-router-transition-methods"
@@ -54650,10 +55032,12 @@
             ],
             "fileCount": 17,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
+              "ember/no-implicit-injections",
               "no-action",
               "ember/require-computed-property-dependencies"
             ],
-            "deprecationsCount": 4,
+            "deprecationsCount": 11,
             "lintErrorsFound": [
               "ember/no-computed-properties-in-native-classes",
               "ember/classic-decorator-no-classic-methods",
@@ -54721,8 +55105,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-computed-properties-in-native-classes",
                       "ember/no-deprecated-router-transition-methods"
@@ -55079,9 +55465,10 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
                   "no-action"
                 ],
-                "deprecationsCount": 1,
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/no-deprecated-router-transition-methods",
@@ -55116,8 +55503,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-deprecated-router-transition-methods"
                     ],
@@ -55473,9 +55862,10 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
                   "no-action"
                 ],
-                "deprecationsCount": 1,
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "ember/no-deprecated-router-transition-methods",
                   "ember/classic-decorator-no-classic-methods",
@@ -55489,9 +55879,10 @@
             ],
             "fileCount": 6,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
               "no-action"
             ],
-            "deprecationsCount": 2,
+            "deprecationsCount": 4,
             "lintErrorsFound": [
               "ember/no-computed-properties-in-native-classes",
               "ember/no-deprecated-router-transition-methods",
@@ -55507,8 +55898,11 @@
             "componentAnalyserResults": [],
             "componentsDeprecationsCount": 0,
             "componentsDeprecationsFound": [],
-            "deprecationsFound": [],
-            "deprecationsCount": 0,
+            "deprecationsFound": [
+              "ember/no-implicit-injections",
+              "ember/no-deprecated-router-transition-methods"
+            ],
+            "deprecationsCount": 2,
             "lintErrorsFound": [
               "ember/classic-decorator-no-classic-methods",
               "ember/no-implicit-injections",
@@ -56252,8 +56646,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-implicit-injections"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/classic-decorator-no-classic-methods",
                   "ember/no-implicit-injections"
@@ -56276,9 +56672,10 @@
             "fileCount": 5,
             "deprecationsFound": [
               "ember/require-computed-property-dependencies",
-              "no-action"
+              "no-action",
+              "ember/no-implicit-injections"
             ],
-            "deprecationsCount": 2,
+            "deprecationsCount": 3,
             "lintErrorsFound": [
               "ember/no-computed-properties-in-native-classes",
               "ember/require-computed-property-dependencies",
@@ -56354,8 +56751,11 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-implicit-injections",
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/classic-decorator-no-classic-methods",
@@ -56371,8 +56771,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-implicit-injections"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/classic-decorator-no-classic-methods",
                   "ember/no-implicit-injections"
@@ -56751,10 +57153,12 @@
             ],
             "fileCount": 3,
             "deprecationsFound": [
+              "ember/no-implicit-injections",
+              "ember/no-deprecated-router-transition-methods",
               "no-action",
               "no-unknown-arguments-for-builtin-components"
             ],
-            "deprecationsCount": 2,
+            "deprecationsCount": 5,
             "lintErrorsFound": [
               "ember/no-computed-properties-in-native-classes",
               "ember/classic-decorator-no-classic-methods",
@@ -57598,10 +58002,12 @@
         "fileCount": 43,
         "deprecationsFound": [
           "no-action",
+          "ember/no-deprecated-router-transition-methods",
+          "ember/no-implicit-injections",
           "ember/require-computed-property-dependencies",
           "no-unknown-arguments-for-builtin-components"
         ],
-        "deprecationsCount": 11,
+        "deprecationsCount": 26,
         "lintErrorsFound": [
           "no-action",
           "ember/no-computed-properties-in-native-classes",
@@ -57683,8 +58089,10 @@
             "componentAnalyserResults": [],
             "componentsDeprecationsCount": 0,
             "componentsDeprecationsFound": [],
-            "deprecationsFound": [],
-            "deprecationsCount": 0,
+            "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods"
+            ],
+            "deprecationsCount": 1,
             "lintErrorsFound": [
               "ember/no-deprecated-router-transition-methods"
             ],
@@ -57811,8 +58219,10 @@
           }
         ],
         "fileCount": 2,
-        "deprecationsFound": [],
-        "deprecationsCount": 0,
+        "deprecationsFound": [
+          "ember/no-deprecated-router-transition-methods"
+        ],
+        "deprecationsCount": 1,
         "lintErrorsFound": [
           "ember/no-deprecated-router-transition-methods"
         ],
@@ -57865,8 +58275,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/no-deprecated-router-transition-methods"
@@ -58100,9 +58512,10 @@
             ],
             "fileCount": 3,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
               "no-action"
             ],
-            "deprecationsCount": 1,
+            "deprecationsCount": 2,
             "lintErrorsFound": [
               "ember/no-computed-properties-in-native-classes",
               "ember/no-deprecated-router-transition-methods",
@@ -58406,9 +58819,10 @@
         ],
         "fileCount": 9,
         "deprecationsFound": [
+          "ember/no-deprecated-router-transition-methods",
           "no-action"
         ],
-        "deprecationsCount": 2,
+        "deprecationsCount": 3,
         "lintErrorsFound": [
           "ember/no-computed-properties-in-native-classes",
           "ember/no-deprecated-router-transition-methods",
@@ -58838,8 +59252,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-implicit-injections"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-implicit-injections"
                     ],
@@ -58890,8 +59306,10 @@
                   }
                 ],
                 "fileCount": 3,
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-implicit-injections"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-implicit-injections"
                 ],
@@ -59716,9 +60134,10 @@
               "ember/require-computed-property-dependencies",
               "no-action",
               "no-passed-in-event-handlers",
+              "ember/no-implicit-injections",
               "no-array-prototype-extensions"
             ],
-            "deprecationsCount": 8,
+            "deprecationsCount": 9,
             "lintErrorsFound": [
               "ember/no-computed-properties-in-native-classes",
               "ember/require-computed-property-dependencies",
@@ -59742,8 +60161,10 @@
             "componentAnalyserResults": [],
             "componentsDeprecationsCount": 0,
             "componentsDeprecationsFound": [],
-            "deprecationsFound": [],
-            "deprecationsCount": 0,
+            "deprecationsFound": [
+              "ember/no-implicit-injections"
+            ],
+            "deprecationsCount": 1,
             "lintErrorsFound": [
               "ember/no-implicit-injections"
             ],
@@ -59767,9 +60188,10 @@
           "no-action",
           "ember/require-computed-property-dependencies",
           "no-passed-in-event-handlers",
+          "ember/no-implicit-injections",
           "no-array-prototype-extensions"
         ],
-        "deprecationsCount": 9,
+        "deprecationsCount": 11,
         "lintErrorsFound": [
           "no-action",
           "ember/no-computed-properties-in-native-classes",
@@ -59814,8 +60236,10 @@
             "componentAnalyserResults": [],
             "componentsDeprecationsCount": 0,
             "componentsDeprecationsFound": [],
-            "deprecationsFound": [],
-            "deprecationsCount": 0,
+            "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods"
+            ],
+            "deprecationsCount": 1,
             "lintErrorsFound": [
               "ember/no-deprecated-router-transition-methods"
             ],
@@ -59837,8 +60261,10 @@
           }
         ],
         "fileCount": 3,
-        "deprecationsFound": [],
-        "deprecationsCount": 0,
+        "deprecationsFound": [
+          "ember/no-deprecated-router-transition-methods"
+        ],
+        "deprecationsCount": 1,
         "lintErrorsFound": [
           "ember/no-computed-properties-in-native-classes",
           "ember/classic-decorator-no-classic-methods",
@@ -59943,8 +60369,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-deprecated-router-transition-methods"
                     ],
@@ -60081,8 +60509,10 @@
                   }
                 ],
                 "fileCount": 2,
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-deprecated-router-transition-methods"
                 ],
@@ -60169,8 +60599,10 @@
                             "componentAnalyserResults": [],
                             "componentsDeprecationsCount": 0,
                             "componentsDeprecationsFound": [],
-                            "deprecationsFound": [],
-                            "deprecationsCount": 0,
+                            "deprecationsFound": [
+                              "ember/no-deprecated-router-transition-methods"
+                            ],
+                            "deprecationsCount": 1,
                             "lintErrorsFound": [
                               "ember/no-computed-properties-in-native-classes",
                               "ember/no-deprecated-router-transition-methods"
@@ -60756,8 +61188,10 @@
                           }
                         ],
                         "fileCount": 3,
-                        "deprecationsFound": [],
-                        "deprecationsCount": 0,
+                        "deprecationsFound": [
+                          "ember/no-deprecated-router-transition-methods"
+                        ],
+                        "deprecationsCount": 1,
                         "lintErrorsFound": [
                           "ember/no-computed-properties-in-native-classes",
                           "ember/no-deprecated-router-transition-methods",
@@ -60795,9 +61229,10 @@
                             "componentsDeprecationsCount": 0,
                             "componentsDeprecationsFound": [],
                             "deprecationsFound": [
-                              "ember/require-computed-property-dependencies"
+                              "ember/require-computed-property-dependencies",
+                              "ember/no-deprecated-router-transition-methods"
                             ],
-                            "deprecationsCount": 1,
+                            "deprecationsCount": 2,
                             "lintErrorsFound": [
                               "ember/no-computed-properties-in-native-classes",
                               "ember/require-computed-property-dependencies",
@@ -61311,10 +61746,11 @@
                         "fileCount": 3,
                         "deprecationsFound": [
                           "ember/require-computed-property-dependencies",
+                          "ember/no-deprecated-router-transition-methods",
                           "no-action",
                           "no-array-prototype-extensions"
                         ],
-                        "deprecationsCount": 3,
+                        "deprecationsCount": 4,
                         "lintErrorsFound": [
                           "ember/no-computed-properties-in-native-classes",
                           "ember/require-computed-property-dependencies",
@@ -61354,9 +61790,10 @@
                             "componentsDeprecationsCount": 0,
                             "componentsDeprecationsFound": [],
                             "deprecationsFound": [
-                              "ember/require-computed-property-dependencies"
+                              "ember/require-computed-property-dependencies",
+                              "ember/no-deprecated-router-transition-methods"
                             ],
-                            "deprecationsCount": 1,
+                            "deprecationsCount": 2,
                             "lintErrorsFound": [
                               "ember/no-computed-properties-in-native-classes",
                               "ember/require-computed-property-dependencies",
@@ -61771,9 +62208,10 @@
                         "fileCount": 3,
                         "deprecationsFound": [
                           "ember/require-computed-property-dependencies",
+                          "ember/no-deprecated-router-transition-methods",
                           "no-action"
                         ],
-                        "deprecationsCount": 2,
+                        "deprecationsCount": 3,
                         "lintErrorsFound": [
                           "ember/no-computed-properties-in-native-classes",
                           "ember/require-computed-property-dependencies",
@@ -61855,11 +62293,12 @@
                     ],
                     "fileCount": 12,
                     "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods",
                       "ember/require-computed-property-dependencies",
                       "no-action",
                       "no-array-prototype-extensions"
                     ],
-                    "deprecationsCount": 5,
+                    "deprecationsCount": 8,
                     "lintErrorsFound": [
                       "ember/no-computed-properties-in-native-classes",
                       "ember/no-deprecated-router-transition-methods",
@@ -61877,8 +62316,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-implicit-injections"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-implicit-injections"
                     ],
@@ -61887,11 +62328,13 @@
                 ],
                 "fileCount": 13,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
                   "ember/require-computed-property-dependencies",
                   "no-action",
-                  "no-array-prototype-extensions"
+                  "no-array-prototype-extensions",
+                  "ember/no-implicit-injections"
                 ],
-                "deprecationsCount": 5,
+                "deprecationsCount": 9,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/no-deprecated-router-transition-methods",
@@ -61921,11 +62364,13 @@
             ],
             "fileCount": 17,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
               "ember/require-computed-property-dependencies",
               "no-action",
-              "no-array-prototype-extensions"
+              "no-array-prototype-extensions",
+              "ember/no-implicit-injections"
             ],
-            "deprecationsCount": 5,
+            "deprecationsCount": 10,
             "lintErrorsFound": [
               "ember/no-deprecated-router-transition-methods",
               "ember/no-computed-properties-in-native-classes",
@@ -63172,8 +63617,10 @@
                         "componentAnalyserResults": [],
                         "componentsDeprecationsCount": 0,
                         "componentsDeprecationsFound": [],
-                        "deprecationsFound": [],
-                        "deprecationsCount": 0,
+                        "deprecationsFound": [
+                          "ember/no-implicit-injections"
+                        ],
+                        "deprecationsCount": 1,
                         "lintErrorsFound": [
                           "ember/no-implicit-injections"
                         ],
@@ -63551,8 +63998,10 @@
                       }
                     ],
                     "fileCount": 3,
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-implicit-injections"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-computed-properties-in-native-classes",
                       "ember/no-implicit-injections",
@@ -63577,8 +64026,10 @@
                   }
                 ],
                 "fileCount": 7,
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-implicit-injections"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/no-implicit-injections",
@@ -63678,8 +64129,10 @@
                             "componentAnalyserResults": [],
                             "componentsDeprecationsCount": 0,
                             "componentsDeprecationsFound": [],
-                            "deprecationsFound": [],
-                            "deprecationsCount": 0,
+                            "deprecationsFound": [
+                              "ember/no-implicit-injections"
+                            ],
+                            "deprecationsCount": 1,
                             "lintErrorsFound": [
                               "ember/no-implicit-injections"
                             ],
@@ -64116,9 +64569,10 @@
                         ],
                         "fileCount": 3,
                         "deprecationsFound": [
+                          "ember/no-implicit-injections",
                           "no-action"
                         ],
-                        "deprecationsCount": 1,
+                        "deprecationsCount": 2,
                         "lintErrorsFound": [
                           "ember/no-computed-properties-in-native-classes",
                           "ember/no-implicit-injections",
@@ -64133,9 +64587,10 @@
                     ],
                     "fileCount": 3,
                     "deprecationsFound": [
+                      "ember/no-implicit-injections",
                       "no-action"
                     ],
-                    "deprecationsCount": 1,
+                    "deprecationsCount": 2,
                     "lintErrorsFound": [
                       "ember/no-computed-properties-in-native-classes",
                       "ember/no-implicit-injections",
@@ -64333,9 +64788,10 @@
                 ],
                 "fileCount": 7,
                 "deprecationsFound": [
+                  "ember/no-implicit-injections",
                   "no-action"
                 ],
-                "deprecationsCount": 1,
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/no-implicit-injections",
@@ -64348,9 +64804,10 @@
             ],
             "fileCount": 18,
             "deprecationsFound": [
+              "ember/no-implicit-injections",
               "no-action"
             ],
-            "deprecationsCount": 1,
+            "deprecationsCount": 3,
             "lintErrorsFound": [
               "ember/no-computed-properties-in-native-classes",
               "ember/no-implicit-injections",
@@ -64393,8 +64850,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-deprecated-router-transition-methods"
                     ],
@@ -64549,9 +65008,10 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
                   "ember/no-classic-classes"
                 ],
-                "deprecationsCount": 1,
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "ember/no-deprecated-router-transition-methods",
                   "ember/no-classic-classes",
@@ -64945,13 +65405,14 @@
             ],
             "fileCount": 7,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
               "ember/no-classic-classes",
               "no-action",
               "no-curly-component-invocation",
               "no-implicit-this",
               "no-link-to-positional-params"
             ],
-            "deprecationsCount": 7,
+            "deprecationsCount": 8,
             "lintErrorsFound": [
               "ember/no-deprecated-router-transition-methods",
               "ember/no-classic-classes",
@@ -64988,8 +65449,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/no-deprecated-router-transition-methods"
@@ -65310,10 +65773,11 @@
             ],
             "fileCount": 3,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
               "ember/no-classic-classes",
               "no-valueless-arguments"
             ],
-            "deprecationsCount": 2,
+            "deprecationsCount": 3,
             "lintErrorsFound": [
               "ember/no-computed-properties-in-native-classes",
               "ember/no-deprecated-router-transition-methods",
@@ -65348,8 +65812,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/no-deprecated-router-transition-methods"
@@ -65618,9 +66084,10 @@
             ],
             "fileCount": 3,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
               "no-action"
             ],
-            "deprecationsCount": 1,
+            "deprecationsCount": 2,
             "lintErrorsFound": [
               "ember/no-computed-properties-in-native-classes",
               "ember/no-deprecated-router-transition-methods",
@@ -65945,16 +66412,18 @@
         ],
         "fileCount": 58,
         "deprecationsFound": [
+          "ember/no-deprecated-router-transition-methods",
           "ember/require-computed-property-dependencies",
           "no-action",
           "no-array-prototype-extensions",
+          "ember/no-implicit-injections",
           "ember/no-classic-classes",
           "no-curly-component-invocation",
           "no-implicit-this",
           "no-link-to-positional-params",
           "no-valueless-arguments"
         ],
-        "deprecationsCount": 18,
+        "deprecationsCount": 28,
         "lintErrorsFound": [
           "ember/no-deprecated-router-transition-methods",
           "ember/no-computed-properties-in-native-classes",
@@ -71631,8 +72100,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-deprecated-router-transition-methods"
                 ],
@@ -72029,9 +72500,10 @@
             "fileCount": 3,
             "deprecationsFound": [
               "ember/require-computed-property-dependencies",
+              "ember/no-deprecated-router-transition-methods",
               "no-action"
             ],
-            "deprecationsCount": 2,
+            "deprecationsCount": 3,
             "lintErrorsFound": [
               "ember/no-computed-properties-in-native-classes",
               "ember/require-computed-property-dependencies",
@@ -72341,8 +72813,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-implicit-injections"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-implicit-injections"
                 ],
@@ -72522,8 +72996,10 @@
               }
             ],
             "fileCount": 3,
-            "deprecationsFound": [],
-            "deprecationsCount": 0,
+            "deprecationsFound": [
+              "ember/no-implicit-injections"
+            ],
+            "deprecationsCount": 1,
             "lintErrorsFound": [
               "ember/no-implicit-injections"
             ],
@@ -72788,9 +73264,11 @@
         "fileCount": 13,
         "deprecationsFound": [
           "ember/require-computed-property-dependencies",
-          "no-action"
+          "ember/no-deprecated-router-transition-methods",
+          "no-action",
+          "ember/no-implicit-injections"
         ],
-        "deprecationsCount": 4,
+        "deprecationsCount": 6,
         "lintErrorsFound": [
           "ember/no-computed-properties-in-native-classes",
           "ember/require-computed-property-dependencies",
@@ -72853,8 +73331,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-deprecated-router-transition-methods"
                 ],
@@ -73049,9 +73529,10 @@
             ],
             "fileCount": 3,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
               "no-action"
             ],
-            "deprecationsCount": 1,
+            "deprecationsCount": 2,
             "lintErrorsFound": [
               "ember/no-computed-properties-in-native-classes",
               "ember/no-deprecated-router-transition-methods",
@@ -73346,8 +73827,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/classic-decorator-no-classic-methods",
@@ -73687,9 +74170,10 @@
             ],
             "fileCount": 3,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
               "no-action"
             ],
-            "deprecationsCount": 1,
+            "deprecationsCount": 2,
             "lintErrorsFound": [
               "ember/no-computed-properties-in-native-classes",
               "ember/classic-decorator-no-classic-methods",
@@ -73729,9 +74213,10 @@
         ],
         "fileCount": 11,
         "deprecationsFound": [
+          "ember/no-deprecated-router-transition-methods",
           "no-action"
         ],
-        "deprecationsCount": 3,
+        "deprecationsCount": 5,
         "lintErrorsFound": [
           "ember/no-computed-properties-in-native-classes",
           "ember/no-deprecated-router-transition-methods",
@@ -74435,8 +74920,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "prettier/prettier",
                       "ember/no-deprecated-router-transition-methods"
@@ -74450,8 +74937,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-implicit-injections"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-implicit-injections"
                     ],
@@ -74571,10 +75060,12 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
+                  "ember/no-implicit-injections",
                   "no-action",
                   "no-unknown-arguments-for-builtin-components"
                 ],
-                "deprecationsCount": 2,
+                "deprecationsCount": 4,
                 "lintErrorsFound": [
                   "prettier/prettier",
                   "ember/no-deprecated-router-transition-methods",
@@ -74605,8 +75096,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "prettier/prettier",
                       "ember/no-deprecated-router-transition-methods"
@@ -74620,8 +75113,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-implicit-injections"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-implicit-injections"
                     ],
@@ -74741,10 +75236,12 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
+                  "ember/no-implicit-injections",
                   "no-action",
                   "no-unknown-arguments-for-builtin-components"
                 ],
-                "deprecationsCount": 2,
+                "deprecationsCount": 4,
                 "lintErrorsFound": [
                   "prettier/prettier",
                   "ember/no-deprecated-router-transition-methods",
@@ -74775,9 +75272,11 @@
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
                     "deprecationsFound": [
-                      "ember/require-computed-property-dependencies"
+                      "ember/require-computed-property-dependencies",
+                      "ember/no-implicit-injections",
+                      "ember/no-deprecated-router-transition-methods"
                     ],
-                    "deprecationsCount": 1,
+                    "deprecationsCount": 3,
                     "lintErrorsFound": [
                       "ember/no-computed-properties-in-native-classes",
                       "ember/require-computed-property-dependencies",
@@ -74793,8 +75292,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-implicit-injections"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-implicit-injections"
                     ],
@@ -74902,9 +75403,11 @@
                 "fileCount": 3,
                 "deprecationsFound": [
                   "ember/require-computed-property-dependencies",
+                  "ember/no-implicit-injections",
+                  "ember/no-deprecated-router-transition-methods",
                   "no-action"
                 ],
-                "deprecationsCount": 2,
+                "deprecationsCount": 5,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/require-computed-property-dependencies",
@@ -74920,11 +75423,13 @@
             ],
             "fileCount": 9,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
+              "ember/no-implicit-injections",
               "no-action",
               "no-unknown-arguments-for-builtin-components",
               "ember/require-computed-property-dependencies"
             ],
-            "deprecationsCount": 6,
+            "deprecationsCount": 13,
             "lintErrorsFound": [
               "prettier/prettier",
               "ember/no-deprecated-router-transition-methods",
@@ -74972,9 +75477,10 @@
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
                 "deprecationsFound": [
+                  "ember/no-implicit-injections",
                   "ember/no-controller-access-in-routes"
                 ],
-                "deprecationsCount": 1,
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "ember/no-implicit-injections",
                   "ember/no-controller-access-in-routes"
@@ -75209,10 +75715,11 @@
             ],
             "fileCount": 3,
             "deprecationsFound": [
+              "ember/no-implicit-injections",
               "ember/no-controller-access-in-routes",
               "no-action"
             ],
-            "deprecationsCount": 2,
+            "deprecationsCount": 3,
             "lintErrorsFound": [
               "prettier/prettier",
               "ember/no-implicit-injections",
@@ -75250,8 +75757,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "prettier/prettier",
                       "ember/no-deprecated-router-transition-methods"
@@ -75265,8 +75774,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-implicit-injections"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-implicit-injections"
                     ],
@@ -75336,8 +75847,11 @@
                   }
                 ],
                 "fileCount": 3,
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
+                  "ember/no-implicit-injections"
+                ],
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "prettier/prettier",
                   "ember/no-deprecated-router-transition-methods",
@@ -75364,8 +75878,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "prettier/prettier",
                       "ember/no-deprecated-router-transition-methods"
@@ -75379,8 +75895,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-implicit-injections"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "ember/no-implicit-injections"
                     ],
@@ -75450,8 +75968,11 @@
                   }
                 ],
                 "fileCount": 3,
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods",
+                  "ember/no-implicit-injections"
+                ],
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "prettier/prettier",
                   "ember/no-deprecated-router-transition-methods",
@@ -75476,8 +75997,11 @@
               }
             ],
             "fileCount": 7,
-            "deprecationsFound": [],
-            "deprecationsCount": 0,
+            "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
+              "ember/no-implicit-injections"
+            ],
+            "deprecationsCount": 4,
             "lintErrorsFound": [
               "prettier/prettier",
               "ember/no-deprecated-router-transition-methods",
@@ -75525,9 +76049,11 @@
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
                     "deprecationsFound": [
-                      "ember/require-computed-property-dependencies"
+                      "ember/require-computed-property-dependencies",
+                      "ember/no-implicit-injections",
+                      "ember/no-deprecated-router-transition-methods"
                     ],
-                    "deprecationsCount": 1,
+                    "deprecationsCount": 3,
                     "lintErrorsFound": [
                       "ember/no-computed-properties-in-native-classes",
                       "ember/require-computed-property-dependencies",
@@ -75720,9 +76246,11 @@
                 "fileCount": 3,
                 "deprecationsFound": [
                   "ember/require-computed-property-dependencies",
+                  "ember/no-implicit-injections",
+                  "ember/no-deprecated-router-transition-methods",
                   "no-action"
                 ],
-                "deprecationsCount": 2,
+                "deprecationsCount": 4,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/require-computed-property-dependencies",
@@ -76182,8 +76710,10 @@
                     "componentAnalyserResults": [],
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
-                    "deprecationsFound": [],
-                    "deprecationsCount": 0,
+                    "deprecationsFound": [
+                      "ember/no-deprecated-router-transition-methods"
+                    ],
+                    "deprecationsCount": 1,
                     "lintErrorsFound": [
                       "prettier/prettier",
                       "ember/classic-decorator-no-classic-methods",
@@ -76264,8 +76794,10 @@
                   }
                 ],
                 "fileCount": 3,
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "prettier/prettier",
                   "ember/classic-decorator-no-classic-methods",
@@ -76280,9 +76812,11 @@
             "fileCount": 13,
             "deprecationsFound": [
               "ember/require-computed-property-dependencies",
+              "ember/no-implicit-injections",
+              "ember/no-deprecated-router-transition-methods",
               "no-action"
             ],
-            "deprecationsCount": 5,
+            "deprecationsCount": 8,
             "lintErrorsFound": [
               "ember/no-computed-properties-in-native-classes",
               "ember/require-computed-property-dependencies",
@@ -76310,8 +76844,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-deprecated-router-transition-methods"
                 ],
@@ -76319,8 +76855,10 @@
               }
             ],
             "fileCount": 1,
-            "deprecationsFound": [],
-            "deprecationsCount": 0,
+            "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods"
+            ],
+            "deprecationsCount": 1,
             "lintErrorsFound": [
               "ember/no-deprecated-router-transition-methods"
             ],
@@ -76355,9 +76893,10 @@
                     "componentsDeprecationsCount": 0,
                     "componentsDeprecationsFound": [],
                     "deprecationsFound": [
-                      "ember/require-computed-property-dependencies"
+                      "ember/require-computed-property-dependencies",
+                      "ember/no-implicit-injections"
                     ],
-                    "deprecationsCount": 1,
+                    "deprecationsCount": 2,
                     "lintErrorsFound": [
                       "ember/no-computed-properties-in-native-classes",
                       "ember/require-computed-property-dependencies",
@@ -76474,9 +77013,10 @@
                 ],
                 "fileCount": 3,
                 "deprecationsFound": [
-                  "ember/require-computed-property-dependencies"
+                  "ember/require-computed-property-dependencies",
+                  "ember/no-implicit-injections"
                 ],
-                "deprecationsCount": 1,
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/require-computed-property-dependencies",
@@ -76490,9 +77030,10 @@
             ],
             "fileCount": 3,
             "deprecationsFound": [
-              "ember/require-computed-property-dependencies"
+              "ember/require-computed-property-dependencies",
+              "ember/no-implicit-injections"
             ],
-            "deprecationsCount": 1,
+            "deprecationsCount": 2,
             "lintErrorsFound": [
               "ember/no-computed-properties-in-native-classes",
               "ember/require-computed-property-dependencies",
@@ -76858,8 +77399,10 @@
             "componentAnalyserResults": [],
             "componentsDeprecationsCount": 0,
             "componentsDeprecationsFound": [],
-            "deprecationsFound": [],
-            "deprecationsCount": 0,
+            "deprecationsFound": [
+              "ember/no-implicit-injections"
+            ],
+            "deprecationsCount": 1,
             "lintErrorsFound": [
               "ember/no-implicit-injections"
             ],
@@ -76902,8 +77445,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-implicit-injections"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-implicit-injections"
                 ],
@@ -77064,9 +77609,10 @@
             "fileCount": 3,
             "deprecationsFound": [
               "ember/require-computed-property-dependencies",
+              "ember/no-implicit-injections",
               "no-action"
             ],
-            "deprecationsCount": 2,
+            "deprecationsCount": 3,
             "lintErrorsFound": [
               "prettier/prettier",
               "ember/no-computed-properties-in-native-classes",
@@ -77114,8 +77660,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-implicit-injections"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-implicit-injections"
                 ],
@@ -77348,9 +77896,10 @@
             ],
             "fileCount": 3,
             "deprecationsFound": [
+              "ember/no-implicit-injections",
               "no-action"
             ],
-            "deprecationsCount": 1,
+            "deprecationsCount": 2,
             "lintErrorsFound": [
               "prettier/prettier",
               "ember/no-implicit-injections",
@@ -77478,12 +78027,14 @@
         ],
         "fileCount": 49,
         "deprecationsFound": [
+          "ember/no-deprecated-router-transition-methods",
+          "ember/no-implicit-injections",
           "no-action",
           "no-unknown-arguments-for-builtin-components",
           "ember/require-computed-property-dependencies",
           "ember/no-controller-access-in-routes"
         ],
-        "deprecationsCount": 17,
+        "deprecationsCount": 37,
         "lintErrorsFound": [
           "prettier/prettier",
           "ember/no-deprecated-router-transition-methods",
@@ -78175,8 +78726,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "prettier/prettier",
                   "ember/no-deprecated-router-transition-methods"
@@ -78191,9 +78744,10 @@
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
                 "deprecationsFound": [
+                  "ember/no-implicit-injections",
                   "ember/no-controller-access-in-routes"
                 ],
-                "deprecationsCount": 1,
+                "deprecationsCount": 2,
                 "lintErrorsFound": [
                   "ember/no-implicit-injections",
                   "ember/no-controller-access-in-routes"
@@ -78496,10 +79050,12 @@
             ],
             "fileCount": 3,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
+              "ember/no-implicit-injections",
               "ember/no-controller-access-in-routes",
               "no-action"
             ],
-            "deprecationsCount": 2,
+            "deprecationsCount": 4,
             "lintErrorsFound": [
               "prettier/prettier",
               "ember/no-deprecated-router-transition-methods",
@@ -78532,8 +79088,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-deprecated-router-transition-methods"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-deprecated-router-transition-methods"
                 ],
@@ -78546,8 +79104,10 @@
                 "componentAnalyserResults": [],
                 "componentsDeprecationsCount": 0,
                 "componentsDeprecationsFound": [],
-                "deprecationsFound": [],
-                "deprecationsCount": 0,
+                "deprecationsFound": [
+                  "ember/no-implicit-injections"
+                ],
+                "deprecationsCount": 1,
                 "lintErrorsFound": [
                   "ember/no-implicit-injections"
                 ],
@@ -78753,9 +79313,11 @@
             ],
             "fileCount": 3,
             "deprecationsFound": [
+              "ember/no-deprecated-router-transition-methods",
+              "ember/no-implicit-injections",
               "no-action"
             ],
-            "deprecationsCount": 1,
+            "deprecationsCount": 3,
             "lintErrorsFound": [
               "ember/no-deprecated-router-transition-methods",
               "ember/no-implicit-injections",
@@ -78793,10 +79355,12 @@
         ],
         "fileCount": 8,
         "deprecationsFound": [
+          "ember/no-deprecated-router-transition-methods",
+          "ember/no-implicit-injections",
           "ember/no-controller-access-in-routes",
           "no-action"
         ],
-        "deprecationsCount": 3,
+        "deprecationsCount": 7,
         "lintErrorsFound": [
           "prettier/prettier",
           "ember/no-deprecated-router-transition-methods",
@@ -78813,7 +79377,9 @@
     "deprecationsFound": [
       "ember/no-classic-classes",
       "ember/require-computed-property-dependencies",
+      "ember/no-implicit-injections",
       "no-action",
+      "ember/no-deprecated-router-transition-methods",
       "ember/no-controller-access-in-routes",
       "no-unknown-arguments-for-builtin-components",
       "no-link-to-tagname",
@@ -78827,7 +79393,7 @@
       "no-passed-in-event-handlers",
       "no-valueless-arguments"
     ],
-    "deprecationsCount": 418,
+    "deprecationsCount": 589,
     "lintErrorsFound": [
       "ember/no-classic-classes",
       "ember/no-computed-properties-in-native-classes",
