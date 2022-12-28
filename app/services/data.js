@@ -1,5 +1,8 @@
 import Service from '@ember/service';
 import { tracked } from '@glimmer/tracking';
+import config from 'ember-get-config';
+
+const { dataRoot } = config;
 
 export default class DataService extends Service {
   @tracked data;
@@ -7,7 +10,7 @@ export default class DataService extends Service {
   async load() {
     if (this.data) return;
 
-    let res = await fetch('/data.json');
+    let res = await fetch(`${dataRoot}data.json`);
     this.data = await res.json();
   }
 

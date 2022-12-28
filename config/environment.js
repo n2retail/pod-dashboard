@@ -18,6 +18,8 @@ module.exports = function (environment) {
       // Here you can pass flags/options to your application instance
       // when it is created
     },
+
+    dataRoot: '/',
   };
 
   if (environment === 'development') {
@@ -42,6 +44,8 @@ module.exports = function (environment) {
 
   if (environment === 'production') {
     // here you can enable a production-specific feature
+
+    ENV.dataRoot = '/pod-dashboard/';
   }
 
   return ENV;
