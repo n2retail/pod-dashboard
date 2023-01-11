@@ -7,5 +7,9 @@
 
   <PodInfo::List @label="Deprecations" @items={{this.model.componentData.deprecationsFound}} @count={{this.model.componentData.deprecationsCount}} />
   <PodInfo::List @label="Lint Errors" @items={{this.model.componentData.lintErrorsFound}} @count={{this.model.componentData.lintErrorsCount}} />
-  <PodInfo::List @label="Components Used" @items={{this.model.componentData.componentsUsed}} />
+  <PodInfo::List @label="Components Used" @items={{this.model.podInfo.componentsUsed}} as |componentPath|>
+    <LinkTo @route="component" @query={{hash path=(component-name-to-path componentPath)}} class="text-blue-500 underline">
+      {{componentPath}}
+    </LinkTo>
+  </PodInfo::List>
 </div>
