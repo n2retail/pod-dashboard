@@ -1,11 +1,20 @@
 {{page-title "PodDashboard"}}
 
 <div class="flex h-screen justify-between">
-  <ApplicationFileTree
-    class="basis-1/3 flex-1
-      mr-10 p-2
-      bg-gray-100 drop-shadow border-r border-r-solid border-r-gray-300
-      h-screen overflow-auto" />
+  {{#if this.showingPods}}
+    <ApplicationFileTree
+      class="basis-1/3 flex-1
+        mr-10 p-2
+        bg-gray-100 drop-shadow border-r border-r-solid border-r-gray-300
+        h-screen overflow-auto" />
+  {{else if this.showingComponents}}
+    <ComponentTree
+      class="basis-1/3 flex-1
+        mr-10 p-2
+        bg-gray-100 drop-shadow border-r border-r-solid border-r-gray-300
+        h-screen overflow-auto" />
+  {{/if}}
 
   {{outlet}}
 </div>
+

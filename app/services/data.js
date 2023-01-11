@@ -21,8 +21,12 @@ export default class DataService extends Service {
       return pathNode;
     }
 
-    return pathNode.children?.find((node) =>
-      this.getPodInfoForPath(path, node)
-    );
+    for (const node of pathNode.children ?? []) {
+      let result = this.getPodInfoForPath(path, node);
+
+      if (result) {
+        return result;
+      }
+    }
   }
 }
