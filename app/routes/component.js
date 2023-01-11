@@ -1,7 +1,7 @@
 import Route from '@ember/routing/route';
 import { inject as service } from '@ember/service';
 
-export default class PodInfoRoute extends Route {
+export default class ComponentRoute extends Route {
   @service('data') dataService;
 
   queryParams = {
@@ -12,7 +12,7 @@ export default class PodInfoRoute extends Route {
 
   model({ path }) {
     return {
-      podInfo: this.dataService.getPodInfoForPath(path),
+      componentData: this.dataService.getComponentForPath(path),
     };
   }
 }
