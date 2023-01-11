@@ -14,6 +14,10 @@ export default class DataService extends Service {
     this.data = await res.json();
   }
 
+  getComponentForPath(path) {
+    return this.data.componentResults.find((c) => c.path === path);
+  }
+
   getPodInfoForPath(path, childNode) {
     let pathNode = childNode ?? this.data.appResults;
 
