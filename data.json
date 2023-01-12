@@ -53299,10 +53299,15 @@
                         "componentAnalyserResults": [],
                         "componentsDeprecationsCount": 0,
                         "componentsDeprecationsFound": [],
-                        "deprecationsFound": [],
-                        "deprecationsCount": 0,
-                        "lintErrorsFound": [],
-                        "lintErrorsCount": 0
+                        "deprecationsFound": [
+                          "ember/no-implicit-injections"
+                        ],
+                        "deprecationsCount": 1,
+                        "lintErrorsFound": [
+                          "ember/classic-decorator-no-classic-methods",
+                          "ember/no-implicit-injections"
+                        ],
+                        "lintErrorsCount": 2
                       },
                       {
                         "podFileType": "template",
@@ -53778,16 +53783,18 @@
                     "fileCount": 3,
                     "deprecationsFound": [
                       "ember/no-deprecated-router-transition-methods",
+                      "ember/no-implicit-injections",
                       "no-action"
                     ],
-                    "deprecationsCount": 2,
+                    "deprecationsCount": 3,
                     "lintErrorsFound": [
                       "ember/no-computed-properties-in-native-classes",
                       "ember/classic-decorator-no-classic-methods",
                       "ember/no-deprecated-router-transition-methods",
+                      "ember/no-implicit-injections",
                       "no-action"
                     ],
-                    "lintErrorsCount": 4,
+                    "lintErrorsCount": 6,
                     "templatePath": "app/pods/movement/by-store/department/compare/template.hbs",
                     "controllerPath": "app/pods/movement/by-store/department/compare/controller.js",
                     "routePath": "app/pods/movement/by-store/department/compare/route.js"
@@ -54248,10 +54255,15 @@
                         "componentAnalyserResults": [],
                         "componentsDeprecationsCount": 0,
                         "componentsDeprecationsFound": [],
-                        "deprecationsFound": [],
-                        "deprecationsCount": 0,
-                        "lintErrorsFound": [],
-                        "lintErrorsCount": 0
+                        "deprecationsFound": [
+                          "ember/no-implicit-injections"
+                        ],
+                        "deprecationsCount": 1,
+                        "lintErrorsFound": [
+                          "ember/classic-decorator-no-classic-methods",
+                          "ember/no-implicit-injections"
+                        ],
+                        "lintErrorsCount": 2
                       },
                       {
                         "podFileType": "template",
@@ -54790,17 +54802,19 @@
                     "deprecationsFound": [
                       "ember/no-deprecated-router-transition-methods",
                       "ember/require-computed-property-dependencies",
+                      "ember/no-implicit-injections",
                       "no-action"
                     ],
-                    "deprecationsCount": 3,
+                    "deprecationsCount": 4,
                     "lintErrorsFound": [
                       "ember/no-computed-properties-in-native-classes",
                       "ember/classic-decorator-no-classic-methods",
                       "ember/no-deprecated-router-transition-methods",
                       "ember/require-computed-property-dependencies",
+                      "ember/no-implicit-injections",
                       "no-action"
                     ],
-                    "lintErrorsCount": 5,
+                    "lintErrorsCount": 7,
                     "templatePath": "app/pods/movement/by-store/department/item-detail/template.hbs",
                     "controllerPath": "app/pods/movement/by-store/department/item-detail/controller.js",
                     "routePath": "app/pods/movement/by-store/department/item-detail/route.js"
@@ -54838,20 +54852,20 @@
                 "fileCount": 12,
                 "deprecationsFound": [
                   "ember/no-deprecated-router-transition-methods",
+                  "ember/no-implicit-injections",
                   "no-action",
-                  "ember/require-computed-property-dependencies",
-                  "ember/no-implicit-injections"
+                  "ember/require-computed-property-dependencies"
                 ],
-                "deprecationsCount": 8,
+                "deprecationsCount": 10,
                 "lintErrorsFound": [
                   "ember/no-computed-properties-in-native-classes",
                   "ember/classic-decorator-no-classic-methods",
                   "ember/no-deprecated-router-transition-methods",
+                  "ember/no-implicit-injections",
                   "no-action",
-                  "ember/require-computed-property-dependencies",
-                  "ember/no-implicit-injections"
+                  "ember/require-computed-property-dependencies"
                 ],
-                "lintErrorsCount": 14,
+                "lintErrorsCount": 18,
                 "templatePath": "app/pods/movement/by-store/department/template.hbs",
                 "controllerPath": "app/pods/movement/by-store/department/controller.js",
                 "routePath": "app/pods/movement/by-store/department/route.js"
@@ -55058,21 +55072,21 @@
             "fileCount": 17,
             "deprecationsFound": [
               "ember/no-deprecated-router-transition-methods",
+              "ember/no-implicit-injections",
               "no-action",
-              "ember/require-computed-property-dependencies",
-              "ember/no-implicit-injections"
+              "ember/require-computed-property-dependencies"
             ],
-            "deprecationsCount": 9,
+            "deprecationsCount": 11,
             "lintErrorsFound": [
               "ember/no-computed-properties-in-native-classes",
               "ember/classic-decorator-no-classic-methods",
               "ember/no-deprecated-router-transition-methods",
+              "ember/no-implicit-injections",
               "no-action",
               "ember/require-computed-property-dependencies",
-              "ember/no-implicit-injections",
               "prettier/prettier"
             ],
-            "lintErrorsCount": 18,
+            "lintErrorsCount": 22,
             "templatePath": "app/pods/movement/by-store/template.hbs",
             "controllerPath": "app/pods/movement/by-store/controller.js",
             "routePath": "app/pods/movement/by-store/route.js"
@@ -58028,22 +58042,22 @@
         "deprecationsFound": [
           "no-action",
           "ember/no-deprecated-router-transition-methods",
-          "ember/require-computed-property-dependencies",
           "ember/no-implicit-injections",
+          "ember/require-computed-property-dependencies",
           "no-unknown-arguments-for-builtin-components"
         ],
-        "deprecationsCount": 24,
+        "deprecationsCount": 26,
         "lintErrorsFound": [
           "no-action",
           "ember/no-computed-properties-in-native-classes",
           "ember/classic-decorator-no-classic-methods",
           "ember/no-deprecated-router-transition-methods",
-          "ember/require-computed-property-dependencies",
           "ember/no-implicit-injections",
+          "ember/require-computed-property-dependencies",
           "prettier/prettier",
           "no-unknown-arguments-for-builtin-components"
         ],
-        "lintErrorsCount": 46,
+        "lintErrorsCount": 50,
         "templatePath": "app/pods/movement/template.hbs",
         "controllerPath": "app/pods/movement/controller.js",
         "routePath": "app/pods/movement/route.js"
@@ -79161,7 +79175,7 @@
       "no-passed-in-event-handlers",
       "no-valueless-arguments"
     ],
-    "deprecationsCount": 571,
+    "deprecationsCount": 573,
     "lintErrorsFound": [
       "ember/no-implicit-injections",
       "ember/no-deprecated-router-transition-methods",
@@ -79195,6 +79209,6 @@
       "no-unused-block-params",
       "no-valueless-arguments"
     ],
-    "lintErrorsCount": 925
+    "lintErrorsCount": 929
   }
 }
