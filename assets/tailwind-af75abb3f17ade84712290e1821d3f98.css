@@ -529,10 +529,6 @@ video {
   right: 0px;
 }
 
-.-m-2 {
-  margin: -0.5rem;
-}
-
 .m-0 {
   margin: 0px;
 }
@@ -543,10 +539,6 @@ video {
 
 .mr-10 {
   margin-right: 2.5rem;
-}
-
-.mb-4 {
-  margin-bottom: 1rem;
 }
 
 .ml-2 {
@@ -587,6 +579,10 @@ video {
   list-style-type: disc;
 }
 
+.flex-col {
+  flex-direction: column;
+}
+
 .items-center {
   align-items: center;
 }
@@ -597,6 +593,18 @@ video {
 
 .overflow-auto {
   overflow: auto;
+}
+
+.overflow-x-auto {
+  overflow-x: auto;
+}
+
+.overflow-y-auto {
+  overflow-y: auto;
+}
+
+.overflow-y-hidden {
+  overflow-y: hidden;
 }
 
 .rounded {
@@ -714,6 +722,10 @@ video {
   padding-bottom: 0px;
 }
 
+.pt-4 {
+  padding-top: 1rem;
+}
+
 .pr-2 {
   padding-right: 0.5rem;
 }
@@ -770,5 +782,9 @@ video {
 
 .drop-shadow {
   --tw-drop-shadow: drop-shadow(0 1px 2px rgb(0 0 0 / 0.1)) drop-shadow(0 1px 1px rgb(0 0 0 / 0.06));
+  filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
+}
+
+.filter {
   filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
 }
